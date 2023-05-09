@@ -1,0 +1,813 @@
+{
+  "Files": [
+    {
+      "Id": "X:\\DEVELOPMENT\\PROJECTS\\NET\\Undersoft\\Universer\\Undersoft.SDK\\src\\Undersoft.SDK.PresentR\\PresentR\\Design\\Chart\\Chart.razor.js",
+      "PackagePath": "staticwebassets\\PresentR\\Design\\Chart\\Chart.razor.js"
+    },
+    {
+      "Id": "X:\\DEVELOPMENT\\PROJECTS\\NET\\Undersoft\\Universer\\Undersoft.SDK\\src\\Undersoft.SDK.PresentR\\PresentR\\Design\\Controls\\CountUp\\CountUp.razor.js",
+      "PackagePath": "staticwebassets\\PresentR\\Design\\Controls\\CountUp\\CountUp.razor.js"
+    },
+    {
+      "Id": "X:\\DEVELOPMENT\\PROJECTS\\NET\\Undersoft\\Universer\\Undersoft.SDK\\src\\Undersoft.SDK.PresentR\\PresentR\\Design\\Controls\\DateTimePicker\\TimePickerCell.razor.js",
+      "PackagePath": "staticwebassets\\PresentR\\Design\\Controls\\DateTimePicker\\TimePickerCell.razor.js"
+    },
+    {
+      "Id": "X:\\DEVELOPMENT\\PROJECTS\\NET\\Undersoft\\Universer\\Undersoft.SDK\\src\\Undersoft.SDK.PresentR\\PresentR\\Design\\Data\\Markdown\\Markdown.razor.js",
+      "PackagePath": "staticwebassets\\PresentR\\Design\\Data\\Markdown\\Markdown.razor.js"
+    },
+    {
+      "Id": "X:\\DEVELOPMENT\\PROJECTS\\NET\\Undersoft\\Universer\\Undersoft.SDK\\src\\Undersoft.SDK.PresentR\\PresentR\\Design\\Data\\ValidateForm\\ValidateForm.razor.js",
+      "PackagePath": "staticwebassets\\PresentR\\Design\\Data\\ValidateForm\\ValidateForm.razor.js"
+    },
+    {
+      "Id": "X:\\DEVELOPMENT\\PROJECTS\\NET\\Undersoft\\Universer\\Undersoft.SDK\\src\\Undersoft.SDK.PresentR\\PresentR\\Design\\Event\\Dialog\\EditDialog.razor.js",
+      "PackagePath": "staticwebassets\\PresentR\\Design\\Event\\Dialog\\EditDialog.razor.js"
+    },
+    {
+      "Id": "X:\\DEVELOPMENT\\PROJECTS\\NET\\Undersoft\\Universer\\Undersoft.SDK\\src\\Undersoft.SDK.PresentR\\PresentR\\Design\\Event\\Dialog\\IconDialog.razor.js",
+      "PackagePath": "staticwebassets\\PresentR\\Design\\Event\\Dialog\\IconDialog.razor.js"
+    },
+    {
+      "Id": "X:\\DEVELOPMENT\\PROJECTS\\NET\\Undersoft\\Universer\\Undersoft.SDK\\src\\Undersoft.SDK.PresentR\\PresentR\\Design\\Event\\Modal\\Modal.razor.js",
+      "PackagePath": "staticwebassets\\PresentR\\Design\\Event\\Modal\\Modal.razor.js"
+    },
+    {
+      "Id": "X:\\DEVELOPMENT\\PROJECTS\\NET\\Undersoft\\Universer\\Undersoft.SDK\\src\\Undersoft.SDK.PresentR\\PresentR\\Design\\Event\\Toast\\Toast.razor.js",
+      "PackagePath": "staticwebassets\\PresentR\\Design\\Event\\Toast\\Toast.razor.js"
+    },
+    {
+      "Id": "X:\\DEVELOPMENT\\PROJECTS\\NET\\Undersoft\\Universer\\Undersoft.SDK\\src\\Undersoft.SDK.PresentR\\PresentR\\Design\\Icons\\FAIconList.razor.js",
+      "PackagePath": "staticwebassets\\PresentR\\Design\\Icons\\FAIconList.razor.js"
+    },
+    {
+      "Id": "X:\\DEVELOPMENT\\PROJECTS\\NET\\Undersoft\\Universer\\Undersoft.SDK\\src\\Undersoft.SDK.PresentR\\PresentR\\Design\\Main\\Console\\Console.razor.js",
+      "PackagePath": "staticwebassets\\PresentR\\Design\\Main\\Console\\Console.razor.js"
+    },
+    {
+      "Id": "X:\\DEVELOPMENT\\PROJECTS\\NET\\Undersoft\\Universer\\Undersoft.SDK\\src\\Undersoft.SDK.PresentR\\PresentR\\Design\\Navigation\\AnchorLink\\AnchorLink.razor.js",
+      "PackagePath": "staticwebassets\\PresentR\\Design\\Navigation\\AnchorLink\\AnchorLink.razor.js"
+    },
+    {
+      "Id": "X:\\DEVELOPMENT\\PROJECTS\\NET\\Undersoft\\Universer\\Undersoft.SDK\\src\\Undersoft.SDK.PresentR\\PresentR\\Design\\Navigation\\Anchor\\Anchor.razor.js",
+      "PackagePath": "staticwebassets\\PresentR\\Design\\Navigation\\Anchor\\Anchor.razor.js"
+    },
+    {
+      "Id": "X:\\DEVELOPMENT\\PROJECTS\\NET\\Undersoft\\Universer\\Undersoft.SDK\\src\\Undersoft.SDK.PresentR\\PresentR\\Design\\Navigation\\Drawer\\Drawer.razor.js",
+      "PackagePath": "staticwebassets\\PresentR\\Design\\Navigation\\Drawer\\Drawer.razor.js"
+    },
+    {
+      "Id": "X:\\DEVELOPMENT\\PROJECTS\\NET\\Undersoft\\Universer\\Undersoft.SDK\\src\\Undersoft.SDK.PresentR\\PresentR\\Design\\Navigation\\Menu\\Menu.razor.js",
+      "PackagePath": "staticwebassets\\PresentR\\Design\\Navigation\\Menu\\Menu.razor.js"
+    },
+    {
+      "Id": "X:\\DEVELOPMENT\\PROJECTS\\NET\\Undersoft\\Universer\\Undersoft.SDK\\src\\Undersoft.SDK.PresentR\\PresentR\\Design\\Navigation\\RibbonTab\\RibbonTab.razor.js",
+      "PackagePath": "staticwebassets\\PresentR\\Design\\Navigation\\RibbonTab\\RibbonTab.razor.js"
+    },
+    {
+      "Id": "X:\\DEVELOPMENT\\PROJECTS\\NET\\Undersoft\\Universer\\Undersoft.SDK\\src\\Undersoft.SDK.PresentR\\PresentR\\Design\\Widgets\\BarcodeReader\\BarcodeReader.razor.js",
+      "PackagePath": "staticwebassets\\PresentR\\Design\\Widgets\\BarcodeReader\\BarcodeReader.razor.js"
+    },
+    {
+      "Id": "X:\\DEVELOPMENT\\PROJECTS\\NET\\Undersoft\\Universer\\Undersoft.SDK\\src\\Undersoft.SDK.PresentR\\PresentR\\Design\\Widgets\\Carousel\\Carousel.razor.js",
+      "PackagePath": "staticwebassets\\PresentR\\Design\\Widgets\\Carousel\\Carousel.razor.js"
+    },
+    {
+      "Id": "X:\\DEVELOPMENT\\PROJECTS\\NET\\Undersoft\\Universer\\Undersoft.SDK\\src\\Undersoft.SDK.PresentR\\PresentR\\Design\\Widgets\\ImagePreviewer\\ImagePreviewer.razor.js",
+      "PackagePath": "staticwebassets\\PresentR\\Design\\Widgets\\ImagePreviewer\\ImagePreviewer.razor.js"
+    },
+    {
+      "Id": "X:\\DEVELOPMENT\\PROJECTS\\NET\\Undersoft\\Universer\\Undersoft.SDK\\src\\Undersoft.SDK.PresentR\\PresentR\\Design\\Widgets\\ImageViewer\\ImageViewer.razor.js",
+      "PackagePath": "staticwebassets\\PresentR\\Design\\Widgets\\ImageViewer\\ImageViewer.razor.js"
+    },
+    {
+      "Id": "X:\\DEVELOPMENT\\PROJECTS\\NET\\Undersoft\\Universer\\Undersoft.SDK\\src\\Undersoft.SDK.PresentR\\PresentR\\Design\\Widgets\\QRCode\\QRCode.razor.js",
+      "PackagePath": "staticwebassets\\PresentR\\Design\\Widgets\\QRCode\\QRCode.razor.js"
+    },
+    {
+      "Id": "X:\\DEVELOPMENT\\PROJECTS\\NET\\Undersoft\\Universer\\Undersoft.SDK\\src\\Undersoft.SDK.PresentR\\PresentR\\Design\\Widgets\\Topology\\Topology.razor.js",
+      "PackagePath": "staticwebassets\\PresentR\\Design\\Widgets\\Topology\\Topology.razor.js"
+    },
+    {
+      "Id": "X:\\DEVELOPMENT\\PROJECTS\\NET\\Undersoft\\Universer\\Undersoft.SDK\\src\\Undersoft.SDK.PresentR\\wwwroot\\app.js",
+      "PackagePath": "staticwebassets\\app.js"
+    },
+    {
+      "Id": "X:\\DEVELOPMENT\\PROJECTS\\NET\\Undersoft\\Universer\\Undersoft.SDK\\src\\Undersoft.SDK.PresentR\\wwwroot\\bundle\\bootstrap.blazor.js",
+      "PackagePath": "staticwebassets\\bundle\\bootstrap.blazor.js"
+    },
+    {
+      "Id": "X:\\DEVELOPMENT\\PROJECTS\\NET\\Undersoft\\Universer\\Undersoft.SDK\\src\\Undersoft.SDK.PresentR\\wwwroot\\bundle\\bootstrap.blazor.min.js",
+      "PackagePath": "staticwebassets\\bundle\\bootstrap.blazor.min.js"
+    },
+    {
+      "Id": "X:\\DEVELOPMENT\\PROJECTS\\NET\\Undersoft\\Universer\\Undersoft.SDK\\src\\Undersoft.SDK.PresentR\\wwwroot\\core\\bootstrap\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\core\\bootstrap\\css\\bootstrap.css"
+    },
+    {
+      "Id": "X:\\DEVELOPMENT\\PROJECTS\\NET\\Undersoft\\Universer\\Undersoft.SDK\\src\\Undersoft.SDK.PresentR\\wwwroot\\core\\bootstrap\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\core\\bootstrap\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "X:\\DEVELOPMENT\\PROJECTS\\NET\\Undersoft\\Universer\\Undersoft.SDK\\src\\Undersoft.SDK.PresentR\\wwwroot\\core\\bootstrap\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\core\\bootstrap\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "X:\\DEVELOPMENT\\PROJECTS\\NET\\Undersoft\\Universer\\Undersoft.SDK\\src\\Undersoft.SDK.PresentR\\wwwroot\\core\\bootstrap\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\core\\bootstrap\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "X:\\DEVELOPMENT\\PROJECTS\\NET\\Undersoft\\Universer\\Undersoft.SDK\\src\\Undersoft.SDK.PresentR\\wwwroot\\core\\jquery\\jquery-3.5.1.js",
+      "PackagePath": "staticwebassets\\core\\jquery\\jquery-3.5.1.js"
+    },
+    {
+      "Id": "X:\\DEVELOPMENT\\PROJECTS\\NET\\Undersoft\\Universer\\Undersoft.SDK\\src\\Undersoft.SDK.PresentR\\wwwroot\\core\\jquery\\jquery-3.5.1.min.js",
+      "PackagePath": "staticwebassets\\core\\jquery\\jquery-3.5.1.min.js"
+    },
+    {
+      "Id": "X:\\DEVELOPMENT\\PROJECTS\\NET\\Undersoft\\Universer\\Undersoft.SDK\\src\\Undersoft.SDK.PresentR\\wwwroot\\core\\jquery\\jquery-3.5.1.min.map",
+      "PackagePath": "staticwebassets\\core\\jquery\\jquery-3.5.1.min.map"
+    },
+    {
+      "Id": "X:\\DEVELOPMENT\\PROJECTS\\NET\\Undersoft\\Universer\\Undersoft.SDK\\src\\Undersoft.SDK.PresentR\\wwwroot\\css\\bootstrap.blazor.bundle.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap.blazor.bundle.min.css"
+    },
+    {
+      "Id": "X:\\DEVELOPMENT\\PROJECTS\\NET\\Undersoft\\Universer\\Undersoft.SDK\\src\\Undersoft.SDK.PresentR\\wwwroot\\css\\font-awesome.min.css",
+      "PackagePath": "staticwebassets\\css\\font-awesome.min.css"
+    },
+    {
+      "Id": "X:\\DEVELOPMENT\\PROJECTS\\NET\\Undersoft\\Universer\\Undersoft.SDK\\src\\Undersoft.SDK.PresentR\\wwwroot\\css\\motronic.min.css",
+      "PackagePath": "staticwebassets\\css\\motronic.min.css"
+    },
+    {
+      "Id": "X:\\DEVELOPMENT\\PROJECTS\\NET\\Undersoft\\Universer\\Undersoft.SDK\\src\\Undersoft.SDK.PresentR\\wwwroot\\fa\\all.css",
+      "PackagePath": "staticwebassets\\fa\\all.css"
+    },
+    {
+      "Id": "X:\\DEVELOPMENT\\PROJECTS\\NET\\Undersoft\\Universer\\Undersoft.SDK\\src\\Undersoft.SDK.PresentR\\wwwroot\\fa\\all.min.css",
+      "PackagePath": "staticwebassets\\fa\\all.min.css"
+    },
+    {
+      "Id": "X:\\DEVELOPMENT\\PROJECTS\\NET\\Undersoft\\Universer\\Undersoft.SDK\\src\\Undersoft.SDK.PresentR\\wwwroot\\js\\bootstrap.blazor.bundle.js",
+      "PackagePath": "staticwebassets\\js\\bootstrap.blazor.bundle.js"
+    },
+    {
+      "Id": "X:\\DEVELOPMENT\\PROJECTS\\NET\\Undersoft\\Universer\\Undersoft.SDK\\src\\Undersoft.SDK.PresentR\\wwwroot\\js\\bootstrap.blazor.bundle.min.js",
+      "PackagePath": "staticwebassets\\js\\bootstrap.blazor.bundle.min.js"
+    },
+    {
+      "Id": "X:\\DEVELOPMENT\\PROJECTS\\NET\\Undersoft\\Universer\\Undersoft.SDK\\src\\Undersoft.SDK.PresentR\\wwwroot\\js\\chart.js",
+      "PackagePath": "staticwebassets\\js\\chart.js"
+    },
+    {
+      "Id": "X:\\DEVELOPMENT\\PROJECTS\\NET\\Undersoft\\Universer\\Undersoft.SDK\\src\\Undersoft.SDK.PresentR\\wwwroot\\js\\microsoft.cognitiveservices.speech.sdk.bundle.js",
+      "PackagePath": "staticwebassets\\js\\microsoft.cognitiveservices.speech.sdk.bundle.js"
+    },
+    {
+      "Id": "X:\\DEVELOPMENT\\PROJECTS\\NET\\Undersoft\\Universer\\Undersoft.SDK\\src\\Undersoft.SDK.PresentR\\wwwroot\\js\\recognizer.js",
+      "PackagePath": "staticwebassets\\js\\recognizer.js"
+    },
+    {
+      "Id": "X:\\DEVELOPMENT\\PROJECTS\\NET\\Undersoft\\Universer\\Undersoft.SDK\\src\\Undersoft.SDK.PresentR\\wwwroot\\js\\recorder.wav.min.js",
+      "PackagePath": "staticwebassets\\js\\recorder.wav.min.js"
+    },
+    {
+      "Id": "X:\\DEVELOPMENT\\PROJECTS\\NET\\Undersoft\\Universer\\Undersoft.SDK\\src\\Undersoft.SDK.PresentR\\wwwroot\\js\\speech.js",
+      "PackagePath": "staticwebassets\\js\\speech.js"
+    },
+    {
+      "Id": "X:\\DEVELOPMENT\\PROJECTS\\NET\\Undersoft\\Universer\\Undersoft.SDK\\src\\Undersoft.SDK.PresentR\\wwwroot\\js\\synthesizer.js",
+      "PackagePath": "staticwebassets\\js\\synthesizer.js"
+    },
+    {
+      "Id": "X:\\DEVELOPMENT\\PROJECTS\\NET\\Undersoft\\Universer\\Undersoft.SDK\\src\\Undersoft.SDK.PresentR\\wwwroot\\lang\\ar.js",
+      "PackagePath": "staticwebassets\\lang\\ar.js"
+    },
+    {
+      "Id": "X:\\DEVELOPMENT\\PROJECTS\\NET\\Undersoft\\Universer\\Undersoft.SDK\\src\\Undersoft.SDK.PresentR\\wwwroot\\lang\\ar.json",
+      "PackagePath": "staticwebassets\\lang\\ar.json"
+    },
+    {
+      "Id": "X:\\DEVELOPMENT\\PROJECTS\\NET\\Undersoft\\Universer\\Undersoft.SDK\\src\\Undersoft.SDK.PresentR\\wwwroot\\lang\\ba.js",
+      "PackagePath": "staticwebassets\\lang\\ba.js"
+    },
+    {
+      "Id": "X:\\DEVELOPMENT\\PROJECTS\\NET\\Undersoft\\Universer\\Undersoft.SDK\\src\\Undersoft.SDK.PresentR\\wwwroot\\lang\\ba.json",
+      "PackagePath": "staticwebassets\\lang\\ba.json"
+    },
+    {
+      "Id": "X:\\DEVELOPMENT\\PROJECTS\\NET\\Undersoft\\Universer\\Undersoft.SDK\\src\\Undersoft.SDK.PresentR\\wwwroot\\lang\\bg.js",
+      "PackagePath": "staticwebassets\\lang\\bg.js"
+    },
+    {
+      "Id": "X:\\DEVELOPMENT\\PROJECTS\\NET\\Undersoft\\Universer\\Undersoft.SDK\\src\\Undersoft.SDK.PresentR\\wwwroot\\lang\\bg.json",
+      "PackagePath": "staticwebassets\\lang\\bg.json"
+    },
+    {
+      "Id": "X:\\DEVELOPMENT\\PROJECTS\\NET\\Undersoft\\Universer\\Undersoft.SDK\\src\\Undersoft.SDK.PresentR\\wwwroot\\lang\\bn.js",
+      "PackagePath": "staticwebassets\\lang\\bn.js"
+    },
+    {
+      "Id": "X:\\DEVELOPMENT\\PROJECTS\\NET\\Undersoft\\Universer\\Undersoft.SDK\\src\\Undersoft.SDK.PresentR\\wwwroot\\lang\\bn.json",
+      "PackagePath": "staticwebassets\\lang\\bn.json"
+    },
+    {
+      "Id": "X:\\DEVELOPMENT\\PROJECTS\\NET\\Undersoft\\Universer\\Undersoft.SDK\\src\\Undersoft.SDK.PresentR\\wwwroot\\lang\\ca.js",
+      "PackagePath": "staticwebassets\\lang\\ca.js"
+    },
+    {
+      "Id": "X:\\DEVELOPMENT\\PROJECTS\\NET\\Undersoft\\Universer\\Undersoft.SDK\\src\\Undersoft.SDK.PresentR\\wwwroot\\lang\\ca.json",
+      "PackagePath": "staticwebassets\\lang\\ca.json"
+    },
+    {
+      "Id": "X:\\DEVELOPMENT\\PROJECTS\\NET\\Undersoft\\Universer\\Undersoft.SDK\\src\\Undersoft.SDK.PresentR\\wwwroot\\lang\\cs.js",
+      "PackagePath": "staticwebassets\\lang\\cs.js"
+    },
+    {
+      "Id": "X:\\DEVELOPMENT\\PROJECTS\\NET\\Undersoft\\Universer\\Undersoft.SDK\\src\\Undersoft.SDK.PresentR\\wwwroot\\lang\\cs.json",
+      "PackagePath": "staticwebassets\\lang\\cs.json"
+    },
+    {
+      "Id": "X:\\DEVELOPMENT\\PROJECTS\\NET\\Undersoft\\Universer\\Undersoft.SDK\\src\\Undersoft.SDK.PresentR\\wwwroot\\lang\\cy.js",
+      "PackagePath": "staticwebassets\\lang\\cy.js"
+    },
+    {
+      "Id": "X:\\DEVELOPMENT\\PROJECTS\\NET\\Undersoft\\Universer\\Undersoft.SDK\\src\\Undersoft.SDK.PresentR\\wwwroot\\lang\\cy.json",
+      "PackagePath": "staticwebassets\\lang\\cy.json"
+    },
+    {
+      "Id": "X:\\DEVELOPMENT\\PROJECTS\\NET\\Undersoft\\Universer\\Undersoft.SDK\\src\\Undersoft.SDK.PresentR\\wwwroot\\lang\\da.js",
+      "PackagePath": "staticwebassets\\lang\\da.js"
+    },
+    {
+      "Id": "X:\\DEVELOPMENT\\PROJECTS\\NET\\Undersoft\\Universer\\Undersoft.SDK\\src\\Undersoft.SDK.PresentR\\wwwroot\\lang\\da.json",
+      "PackagePath": "staticwebassets\\lang\\da.json"
+    },
+    {
+      "Id": "X:\\DEVELOPMENT\\PROJECTS\\NET\\Undersoft\\Universer\\Undersoft.SDK\\src\\Undersoft.SDK.PresentR\\wwwroot\\lang\\de.js",
+      "PackagePath": "staticwebassets\\lang\\de.js"
+    },
+    {
+      "Id": "X:\\DEVELOPMENT\\PROJECTS\\NET\\Undersoft\\Universer\\Undersoft.SDK\\src\\Undersoft.SDK.PresentR\\wwwroot\\lang\\de.json",
+      "PackagePath": "staticwebassets\\lang\\de.json"
+    },
+    {
+      "Id": "X:\\DEVELOPMENT\\PROJECTS\\NET\\Undersoft\\Universer\\Undersoft.SDK\\src\\Undersoft.SDK.PresentR\\wwwroot\\lang\\el.js",
+      "PackagePath": "staticwebassets\\lang\\el.js"
+    },
+    {
+      "Id": "X:\\DEVELOPMENT\\PROJECTS\\NET\\Undersoft\\Universer\\Undersoft.SDK\\src\\Undersoft.SDK.PresentR\\wwwroot\\lang\\el.json",
+      "PackagePath": "staticwebassets\\lang\\el.json"
+    },
+    {
+      "Id": "X:\\DEVELOPMENT\\PROJECTS\\NET\\Undersoft\\Universer\\Undersoft.SDK\\src\\Undersoft.SDK.PresentR\\wwwroot\\lang\\en.js",
+      "PackagePath": "staticwebassets\\lang\\en.js"
+    },
+    {
+      "Id": "X:\\DEVELOPMENT\\PROJECTS\\NET\\Undersoft\\Universer\\Undersoft.SDK\\src\\Undersoft.SDK.PresentR\\wwwroot\\lang\\en.json",
+      "PackagePath": "staticwebassets\\lang\\en.json"
+    },
+    {
+      "Id": "X:\\DEVELOPMENT\\PROJECTS\\NET\\Undersoft\\Universer\\Undersoft.SDK\\src\\Undersoft.SDK.PresentR\\wwwroot\\lang\\es.js",
+      "PackagePath": "staticwebassets\\lang\\es.js"
+    },
+    {
+      "Id": "X:\\DEVELOPMENT\\PROJECTS\\NET\\Undersoft\\Universer\\Undersoft.SDK\\src\\Undersoft.SDK.PresentR\\wwwroot\\lang\\es.json",
+      "PackagePath": "staticwebassets\\lang\\es.json"
+    },
+    {
+      "Id": "X:\\DEVELOPMENT\\PROJECTS\\NET\\Undersoft\\Universer\\Undersoft.SDK\\src\\Undersoft.SDK.PresentR\\wwwroot\\lang\\et.js",
+      "PackagePath": "staticwebassets\\lang\\et.js"
+    },
+    {
+      "Id": "X:\\DEVELOPMENT\\PROJECTS\\NET\\Undersoft\\Universer\\Undersoft.SDK\\src\\Undersoft.SDK.PresentR\\wwwroot\\lang\\et.json",
+      "PackagePath": "staticwebassets\\lang\\et.json"
+    },
+    {
+      "Id": "X:\\DEVELOPMENT\\PROJECTS\\NET\\Undersoft\\Universer\\Undersoft.SDK\\src\\Undersoft.SDK.PresentR\\wwwroot\\lang\\eu.js",
+      "PackagePath": "staticwebassets\\lang\\eu.js"
+    },
+    {
+      "Id": "X:\\DEVELOPMENT\\PROJECTS\\NET\\Undersoft\\Universer\\Undersoft.SDK\\src\\Undersoft.SDK.PresentR\\wwwroot\\lang\\eu.json",
+      "PackagePath": "staticwebassets\\lang\\eu.json"
+    },
+    {
+      "Id": "X:\\DEVELOPMENT\\PROJECTS\\NET\\Undersoft\\Universer\\Undersoft.SDK\\src\\Undersoft.SDK.PresentR\\wwwroot\\lang\\fa.js",
+      "PackagePath": "staticwebassets\\lang\\fa.js"
+    },
+    {
+      "Id": "X:\\DEVELOPMENT\\PROJECTS\\NET\\Undersoft\\Universer\\Undersoft.SDK\\src\\Undersoft.SDK.PresentR\\wwwroot\\lang\\fa.json",
+      "PackagePath": "staticwebassets\\lang\\fa.json"
+    },
+    {
+      "Id": "X:\\DEVELOPMENT\\PROJECTS\\NET\\Undersoft\\Universer\\Undersoft.SDK\\src\\Undersoft.SDK.PresentR\\wwwroot\\lang\\fi.js",
+      "PackagePath": "staticwebassets\\lang\\fi.js"
+    },
+    {
+      "Id": "X:\\DEVELOPMENT\\PROJECTS\\NET\\Undersoft\\Universer\\Undersoft.SDK\\src\\Undersoft.SDK.PresentR\\wwwroot\\lang\\fi.json",
+      "PackagePath": "staticwebassets\\lang\\fi.json"
+    },
+    {
+      "Id": "X:\\DEVELOPMENT\\PROJECTS\\NET\\Undersoft\\Universer\\Undersoft.SDK\\src\\Undersoft.SDK.PresentR\\wwwroot\\lang\\fr.js",
+      "PackagePath": "staticwebassets\\lang\\fr.js"
+    },
+    {
+      "Id": "X:\\DEVELOPMENT\\PROJECTS\\NET\\Undersoft\\Universer\\Undersoft.SDK\\src\\Undersoft.SDK.PresentR\\wwwroot\\lang\\fr.json",
+      "PackagePath": "staticwebassets\\lang\\fr.json"
+    },
+    {
+      "Id": "X:\\DEVELOPMENT\\PROJECTS\\NET\\Undersoft\\Universer\\Undersoft.SDK\\src\\Undersoft.SDK.PresentR\\wwwroot\\lang\\gd.js",
+      "PackagePath": "staticwebassets\\lang\\gd.js"
+    },
+    {
+      "Id": "X:\\DEVELOPMENT\\PROJECTS\\NET\\Undersoft\\Universer\\Undersoft.SDK\\src\\Undersoft.SDK.PresentR\\wwwroot\\lang\\gd.json",
+      "PackagePath": "staticwebassets\\lang\\gd.json"
+    },
+    {
+      "Id": "X:\\DEVELOPMENT\\PROJECTS\\NET\\Undersoft\\Universer\\Undersoft.SDK\\src\\Undersoft.SDK.PresentR\\wwwroot\\lang\\gl.js",
+      "PackagePath": "staticwebassets\\lang\\gl.js"
+    },
+    {
+      "Id": "X:\\DEVELOPMENT\\PROJECTS\\NET\\Undersoft\\Universer\\Undersoft.SDK\\src\\Undersoft.SDK.PresentR\\wwwroot\\lang\\gl.json",
+      "PackagePath": "staticwebassets\\lang\\gl.json"
+    },
+    {
+      "Id": "X:\\DEVELOPMENT\\PROJECTS\\NET\\Undersoft\\Universer\\Undersoft.SDK\\src\\Undersoft.SDK.PresentR\\wwwroot\\lang\\he.js",
+      "PackagePath": "staticwebassets\\lang\\he.js"
+    },
+    {
+      "Id": "X:\\DEVELOPMENT\\PROJECTS\\NET\\Undersoft\\Universer\\Undersoft.SDK\\src\\Undersoft.SDK.PresentR\\wwwroot\\lang\\he.json",
+      "PackagePath": "staticwebassets\\lang\\he.json"
+    },
+    {
+      "Id": "X:\\DEVELOPMENT\\PROJECTS\\NET\\Undersoft\\Universer\\Undersoft.SDK\\src\\Undersoft.SDK.PresentR\\wwwroot\\lang\\hi.js",
+      "PackagePath": "staticwebassets\\lang\\hi.js"
+    },
+    {
+      "Id": "X:\\DEVELOPMENT\\PROJECTS\\NET\\Undersoft\\Universer\\Undersoft.SDK\\src\\Undersoft.SDK.PresentR\\wwwroot\\lang\\hi.json",
+      "PackagePath": "staticwebassets\\lang\\hi.json"
+    },
+    {
+      "Id": "X:\\DEVELOPMENT\\PROJECTS\\NET\\Undersoft\\Universer\\Undersoft.SDK\\src\\Undersoft.SDK.PresentR\\wwwroot\\lang\\hr.js",
+      "PackagePath": "staticwebassets\\lang\\hr.js"
+    },
+    {
+      "Id": "X:\\DEVELOPMENT\\PROJECTS\\NET\\Undersoft\\Universer\\Undersoft.SDK\\src\\Undersoft.SDK.PresentR\\wwwroot\\lang\\hr.json",
+      "PackagePath": "staticwebassets\\lang\\hr.json"
+    },
+    {
+      "Id": "X:\\DEVELOPMENT\\PROJECTS\\NET\\Undersoft\\Universer\\Undersoft.SDK\\src\\Undersoft.SDK.PresentR\\wwwroot\\lang\\hu.js",
+      "PackagePath": "staticwebassets\\lang\\hu.js"
+    },
+    {
+      "Id": "X:\\DEVELOPMENT\\PROJECTS\\NET\\Undersoft\\Universer\\Undersoft.SDK\\src\\Undersoft.SDK.PresentR\\wwwroot\\lang\\hu.json",
+      "PackagePath": "staticwebassets\\lang\\hu.json"
+    },
+    {
+      "Id": "X:\\DEVELOPMENT\\PROJECTS\\NET\\Undersoft\\Universer\\Undersoft.SDK\\src\\Undersoft.SDK.PresentR\\wwwroot\\lang\\it.js",
+      "PackagePath": "staticwebassets\\lang\\it.js"
+    },
+    {
+      "Id": "X:\\DEVELOPMENT\\PROJECTS\\NET\\Undersoft\\Universer\\Undersoft.SDK\\src\\Undersoft.SDK.PresentR\\wwwroot\\lang\\it.json",
+      "PackagePath": "staticwebassets\\lang\\it.json"
+    },
+    {
+      "Id": "X:\\DEVELOPMENT\\PROJECTS\\NET\\Undersoft\\Universer\\Undersoft.SDK\\src\\Undersoft.SDK.PresentR\\wwwroot\\lang\\ja.js",
+      "PackagePath": "staticwebassets\\lang\\ja.js"
+    },
+    {
+      "Id": "X:\\DEVELOPMENT\\PROJECTS\\NET\\Undersoft\\Universer\\Undersoft.SDK\\src\\Undersoft.SDK.PresentR\\wwwroot\\lang\\ja.json",
+      "PackagePath": "staticwebassets\\lang\\ja.json"
+    },
+    {
+      "Id": "X:\\DEVELOPMENT\\PROJECTS\\NET\\Undersoft\\Universer\\Undersoft.SDK\\src\\Undersoft.SDK.PresentR\\wwwroot\\lang\\ko.js",
+      "PackagePath": "staticwebassets\\lang\\ko.js"
+    },
+    {
+      "Id": "X:\\DEVELOPMENT\\PROJECTS\\NET\\Undersoft\\Universer\\Undersoft.SDK\\src\\Undersoft.SDK.PresentR\\wwwroot\\lang\\ko.json",
+      "PackagePath": "staticwebassets\\lang\\ko.json"
+    },
+    {
+      "Id": "X:\\DEVELOPMENT\\PROJECTS\\NET\\Undersoft\\Universer\\Undersoft.SDK\\src\\Undersoft.SDK.PresentR\\wwwroot\\lang\\lv.js",
+      "PackagePath": "staticwebassets\\lang\\lv.js"
+    },
+    {
+      "Id": "X:\\DEVELOPMENT\\PROJECTS\\NET\\Undersoft\\Universer\\Undersoft.SDK\\src\\Undersoft.SDK.PresentR\\wwwroot\\lang\\lv.json",
+      "PackagePath": "staticwebassets\\lang\\lv.json"
+    },
+    {
+      "Id": "X:\\DEVELOPMENT\\PROJECTS\\NET\\Undersoft\\Universer\\Undersoft.SDK\\src\\Undersoft.SDK.PresentR\\wwwroot\\lang\\nb.js",
+      "PackagePath": "staticwebassets\\lang\\nb.js"
+    },
+    {
+      "Id": "X:\\DEVELOPMENT\\PROJECTS\\NET\\Undersoft\\Universer\\Undersoft.SDK\\src\\Undersoft.SDK.PresentR\\wwwroot\\lang\\nb.json",
+      "PackagePath": "staticwebassets\\lang\\nb.json"
+    },
+    {
+      "Id": "X:\\DEVELOPMENT\\PROJECTS\\NET\\Undersoft\\Universer\\Undersoft.SDK\\src\\Undersoft.SDK.PresentR\\wwwroot\\lang\\nl.js",
+      "PackagePath": "staticwebassets\\lang\\nl.js"
+    },
+    {
+      "Id": "X:\\DEVELOPMENT\\PROJECTS\\NET\\Undersoft\\Universer\\Undersoft.SDK\\src\\Undersoft.SDK.PresentR\\wwwroot\\lang\\nl.json",
+      "PackagePath": "staticwebassets\\lang\\nl.json"
+    },
+    {
+      "Id": "X:\\DEVELOPMENT\\PROJECTS\\NET\\Undersoft\\Universer\\Undersoft.SDK\\src\\Undersoft.SDK.PresentR\\wwwroot\\lang\\nn.js",
+      "PackagePath": "staticwebassets\\lang\\nn.js"
+    },
+    {
+      "Id": "X:\\DEVELOPMENT\\PROJECTS\\NET\\Undersoft\\Universer\\Undersoft.SDK\\src\\Undersoft.SDK.PresentR\\wwwroot\\lang\\nn.json",
+      "PackagePath": "staticwebassets\\lang\\nn.json"
+    },
+    {
+      "Id": "X:\\DEVELOPMENT\\PROJECTS\\NET\\Undersoft\\Universer\\Undersoft.SDK\\src\\Undersoft.SDK.PresentR\\wwwroot\\lang\\oc.js",
+      "PackagePath": "staticwebassets\\lang\\oc.js"
+    },
+    {
+      "Id": "X:\\DEVELOPMENT\\PROJECTS\\NET\\Undersoft\\Universer\\Undersoft.SDK\\src\\Undersoft.SDK.PresentR\\wwwroot\\lang\\oc.json",
+      "PackagePath": "staticwebassets\\lang\\oc.json"
+    },
+    {
+      "Id": "X:\\DEVELOPMENT\\PROJECTS\\NET\\Undersoft\\Universer\\Undersoft.SDK\\src\\Undersoft.SDK.PresentR\\wwwroot\\lang\\pl.js",
+      "PackagePath": "staticwebassets\\lang\\pl.js"
+    },
+    {
+      "Id": "X:\\DEVELOPMENT\\PROJECTS\\NET\\Undersoft\\Universer\\Undersoft.SDK\\src\\Undersoft.SDK.PresentR\\wwwroot\\lang\\pl.json",
+      "PackagePath": "staticwebassets\\lang\\pl.json"
+    },
+    {
+      "Id": "X:\\DEVELOPMENT\\PROJECTS\\NET\\Undersoft\\Universer\\Undersoft.SDK\\src\\Undersoft.SDK.PresentR\\wwwroot\\lang\\pt-BR.js",
+      "PackagePath": "staticwebassets\\lang\\pt-BR.js"
+    },
+    {
+      "Id": "X:\\DEVELOPMENT\\PROJECTS\\NET\\Undersoft\\Universer\\Undersoft.SDK\\src\\Undersoft.SDK.PresentR\\wwwroot\\lang\\pt-BR.json",
+      "PackagePath": "staticwebassets\\lang\\pt-BR.json"
+    },
+    {
+      "Id": "X:\\DEVELOPMENT\\PROJECTS\\NET\\Undersoft\\Universer\\Undersoft.SDK\\src\\Undersoft.SDK.PresentR\\wwwroot\\lang\\pt-PT.js",
+      "PackagePath": "staticwebassets\\lang\\pt-PT.js"
+    },
+    {
+      "Id": "X:\\DEVELOPMENT\\PROJECTS\\NET\\Undersoft\\Universer\\Undersoft.SDK\\src\\Undersoft.SDK.PresentR\\wwwroot\\lang\\pt-PT.json",
+      "PackagePath": "staticwebassets\\lang\\pt-PT.json"
+    },
+    {
+      "Id": "X:\\DEVELOPMENT\\PROJECTS\\NET\\Undersoft\\Universer\\Undersoft.SDK\\src\\Undersoft.SDK.PresentR\\wwwroot\\lang\\ro.js",
+      "PackagePath": "staticwebassets\\lang\\ro.js"
+    },
+    {
+      "Id": "X:\\DEVELOPMENT\\PROJECTS\\NET\\Undersoft\\Universer\\Undersoft.SDK\\src\\Undersoft.SDK.PresentR\\wwwroot\\lang\\ro.json",
+      "PackagePath": "staticwebassets\\lang\\ro.json"
+    },
+    {
+      "Id": "X:\\DEVELOPMENT\\PROJECTS\\NET\\Undersoft\\Universer\\Undersoft.SDK\\src\\Undersoft.SDK.PresentR\\wwwroot\\lang\\ru.js",
+      "PackagePath": "staticwebassets\\lang\\ru.js"
+    },
+    {
+      "Id": "X:\\DEVELOPMENT\\PROJECTS\\NET\\Undersoft\\Universer\\Undersoft.SDK\\src\\Undersoft.SDK.PresentR\\wwwroot\\lang\\ru.json",
+      "PackagePath": "staticwebassets\\lang\\ru.json"
+    },
+    {
+      "Id": "X:\\DEVELOPMENT\\PROJECTS\\NET\\Undersoft\\Universer\\Undersoft.SDK\\src\\Undersoft.SDK.PresentR\\wwwroot\\lang\\sk.js",
+      "PackagePath": "staticwebassets\\lang\\sk.js"
+    },
+    {
+      "Id": "X:\\DEVELOPMENT\\PROJECTS\\NET\\Undersoft\\Universer\\Undersoft.SDK\\src\\Undersoft.SDK.PresentR\\wwwroot\\lang\\sk.json",
+      "PackagePath": "staticwebassets\\lang\\sk.json"
+    },
+    {
+      "Id": "X:\\DEVELOPMENT\\PROJECTS\\NET\\Undersoft\\Universer\\Undersoft.SDK\\src\\Undersoft.SDK.PresentR\\wwwroot\\lang\\sl.js",
+      "PackagePath": "staticwebassets\\lang\\sl.js"
+    },
+    {
+      "Id": "X:\\DEVELOPMENT\\PROJECTS\\NET\\Undersoft\\Universer\\Undersoft.SDK\\src\\Undersoft.SDK.PresentR\\wwwroot\\lang\\sl.json",
+      "PackagePath": "staticwebassets\\lang\\sl.json"
+    },
+    {
+      "Id": "X:\\DEVELOPMENT\\PROJECTS\\NET\\Undersoft\\Universer\\Undersoft.SDK\\src\\Undersoft.SDK.PresentR\\wwwroot\\lang\\sr.js",
+      "PackagePath": "staticwebassets\\lang\\sr.js"
+    },
+    {
+      "Id": "X:\\DEVELOPMENT\\PROJECTS\\NET\\Undersoft\\Universer\\Undersoft.SDK\\src\\Undersoft.SDK.PresentR\\wwwroot\\lang\\sr.json",
+      "PackagePath": "staticwebassets\\lang\\sr.json"
+    },
+    {
+      "Id": "X:\\DEVELOPMENT\\PROJECTS\\NET\\Undersoft\\Universer\\Undersoft.SDK\\src\\Undersoft.SDK.PresentR\\wwwroot\\lang\\sv.js",
+      "PackagePath": "staticwebassets\\lang\\sv.js"
+    },
+    {
+      "Id": "X:\\DEVELOPMENT\\PROJECTS\\NET\\Undersoft\\Universer\\Undersoft.SDK\\src\\Undersoft.SDK.PresentR\\wwwroot\\lang\\sv.json",
+      "PackagePath": "staticwebassets\\lang\\sv.json"
+    },
+    {
+      "Id": "X:\\DEVELOPMENT\\PROJECTS\\NET\\Undersoft\\Universer\\Undersoft.SDK\\src\\Undersoft.SDK.PresentR\\wwwroot\\lang\\te.js",
+      "PackagePath": "staticwebassets\\lang\\te.js"
+    },
+    {
+      "Id": "X:\\DEVELOPMENT\\PROJECTS\\NET\\Undersoft\\Universer\\Undersoft.SDK\\src\\Undersoft.SDK.PresentR\\wwwroot\\lang\\te.json",
+      "PackagePath": "staticwebassets\\lang\\te.json"
+    },
+    {
+      "Id": "X:\\DEVELOPMENT\\PROJECTS\\NET\\Undersoft\\Universer\\Undersoft.SDK\\src\\Undersoft.SDK.PresentR\\wwwroot\\lang\\th.js",
+      "PackagePath": "staticwebassets\\lang\\th.js"
+    },
+    {
+      "Id": "X:\\DEVELOPMENT\\PROJECTS\\NET\\Undersoft\\Universer\\Undersoft.SDK\\src\\Undersoft.SDK.PresentR\\wwwroot\\lang\\th.json",
+      "PackagePath": "staticwebassets\\lang\\th.json"
+    },
+    {
+      "Id": "X:\\DEVELOPMENT\\PROJECTS\\NET\\Undersoft\\Universer\\Undersoft.SDK\\src\\Undersoft.SDK.PresentR\\wwwroot\\lang\\tr.js",
+      "PackagePath": "staticwebassets\\lang\\tr.js"
+    },
+    {
+      "Id": "X:\\DEVELOPMENT\\PROJECTS\\NET\\Undersoft\\Universer\\Undersoft.SDK\\src\\Undersoft.SDK.PresentR\\wwwroot\\lang\\tr.json",
+      "PackagePath": "staticwebassets\\lang\\tr.json"
+    },
+    {
+      "Id": "X:\\DEVELOPMENT\\PROJECTS\\NET\\Undersoft\\Universer\\Undersoft.SDK\\src\\Undersoft.SDK.PresentR\\wwwroot\\lang\\uk.js",
+      "PackagePath": "staticwebassets\\lang\\uk.js"
+    },
+    {
+      "Id": "X:\\DEVELOPMENT\\PROJECTS\\NET\\Undersoft\\Universer\\Undersoft.SDK\\src\\Undersoft.SDK.PresentR\\wwwroot\\lang\\uk.json",
+      "PackagePath": "staticwebassets\\lang\\uk.json"
+    },
+    {
+      "Id": "X:\\DEVELOPMENT\\PROJECTS\\NET\\Undersoft\\Universer\\Undersoft.SDK\\src\\Undersoft.SDK.PresentR\\wwwroot\\lang\\vi.js",
+      "PackagePath": "staticwebassets\\lang\\vi.js"
+    },
+    {
+      "Id": "X:\\DEVELOPMENT\\PROJECTS\\NET\\Undersoft\\Universer\\Undersoft.SDK\\src\\Undersoft.SDK.PresentR\\wwwroot\\lang\\vi.json",
+      "PackagePath": "staticwebassets\\lang\\vi.json"
+    },
+    {
+      "Id": "X:\\DEVELOPMENT\\PROJECTS\\NET\\Undersoft\\Universer\\Undersoft.SDK\\src\\Undersoft.SDK.PresentR\\wwwroot\\lang\\zh-CN.js",
+      "PackagePath": "staticwebassets\\lang\\zh-CN.js"
+    },
+    {
+      "Id": "X:\\DEVELOPMENT\\PROJECTS\\NET\\Undersoft\\Universer\\Undersoft.SDK\\src\\Undersoft.SDK.PresentR\\wwwroot\\lang\\zh-CN.json",
+      "PackagePath": "staticwebassets\\lang\\zh-CN.json"
+    },
+    {
+      "Id": "X:\\DEVELOPMENT\\PROJECTS\\NET\\Undersoft\\Universer\\Undersoft.SDK\\src\\Undersoft.SDK.PresentR\\wwwroot\\lang\\zh-Hans.js",
+      "PackagePath": "staticwebassets\\lang\\zh-Hans.js"
+    },
+    {
+      "Id": "X:\\DEVELOPMENT\\PROJECTS\\NET\\Undersoft\\Universer\\Undersoft.SDK\\src\\Undersoft.SDK.PresentR\\wwwroot\\lang\\zh-Hans.json",
+      "PackagePath": "staticwebassets\\lang\\zh-Hans.json"
+    },
+    {
+      "Id": "X:\\DEVELOPMENT\\PROJECTS\\NET\\Undersoft\\Universer\\Undersoft.SDK\\src\\Undersoft.SDK.PresentR\\wwwroot\\lang\\zh-Hant.js",
+      "PackagePath": "staticwebassets\\lang\\zh-Hant.js"
+    },
+    {
+      "Id": "X:\\DEVELOPMENT\\PROJECTS\\NET\\Undersoft\\Universer\\Undersoft.SDK\\src\\Undersoft.SDK.PresentR\\wwwroot\\lang\\zh-Hant.json",
+      "PackagePath": "staticwebassets\\lang\\zh-Hant.json"
+    },
+    {
+      "Id": "X:\\DEVELOPMENT\\PROJECTS\\NET\\Undersoft\\Universer\\Undersoft.SDK\\src\\Undersoft.SDK.PresentR\\wwwroot\\lang\\zh-TW.js",
+      "PackagePath": "staticwebassets\\lang\\zh-TW.js"
+    },
+    {
+      "Id": "X:\\DEVELOPMENT\\PROJECTS\\NET\\Undersoft\\Universer\\Undersoft.SDK\\src\\Undersoft.SDK.PresentR\\wwwroot\\lang\\zh-TW.json",
+      "PackagePath": "staticwebassets\\lang\\zh-TW.json"
+    },
+    {
+      "Id": "X:\\DEVELOPMENT\\PROJECTS\\NET\\Undersoft\\Universer\\Undersoft.SDK\\src\\Undersoft.SDK.PresentR\\wwwroot\\lib\\animate\\animate.min.css",
+      "PackagePath": "staticwebassets\\lib\\animate\\animate.min.css"
+    },
+    {
+      "Id": "X:\\DEVELOPMENT\\PROJECTS\\NET\\Undersoft\\Universer\\Undersoft.SDK\\src\\Undersoft.SDK.PresentR\\wwwroot\\lib\\countUp\\countUp.min.js",
+      "PackagePath": "staticwebassets\\lib\\countUp\\countUp.min.js"
+    },
+    {
+      "Id": "X:\\DEVELOPMENT\\PROJECTS\\NET\\Undersoft\\Universer\\Undersoft.SDK\\src\\Undersoft.SDK.PresentR\\wwwroot\\lib\\extensions\\browser.js",
+      "PackagePath": "staticwebassets\\lib\\extensions\\browser.js"
+    },
+    {
+      "Id": "X:\\DEVELOPMENT\\PROJECTS\\NET\\Undersoft\\Universer\\Undersoft.SDK\\src\\Undersoft.SDK.PresentR\\wwwroot\\lib\\extensions\\longbow.captcha.js",
+      "PackagePath": "staticwebassets\\lib\\extensions\\longbow.captcha.js"
+    },
+    {
+      "Id": "X:\\DEVELOPMENT\\PROJECTS\\NET\\Undersoft\\Universer\\Undersoft.SDK\\src\\Undersoft.SDK.PresentR\\wwwroot\\lib\\extensions\\longbow.extensions.js",
+      "PackagePath": "staticwebassets\\lib\\extensions\\longbow.extensions.js"
+    },
+    {
+      "Id": "X:\\DEVELOPMENT\\PROJECTS\\NET\\Undersoft\\Universer\\Undersoft.SDK\\src\\Undersoft.SDK.PresentR\\wwwroot\\lib\\extensions\\longbow.grid.js",
+      "PackagePath": "staticwebassets\\lib\\extensions\\longbow.grid.js"
+    },
+    {
+      "Id": "X:\\DEVELOPMENT\\PROJECTS\\NET\\Undersoft\\Universer\\Undersoft.SDK\\src\\Undersoft.SDK.PresentR\\wwwroot\\lib\\extensions\\longbow.tab.js",
+      "PackagePath": "staticwebassets\\lib\\extensions\\longbow.tab.js"
+    },
+    {
+      "Id": "X:\\DEVELOPMENT\\PROJECTS\\NET\\Undersoft\\Universer\\Undersoft.SDK\\src\\Undersoft.SDK.PresentR\\wwwroot\\lib\\swal\\sweetalert2.css",
+      "PackagePath": "staticwebassets\\lib\\swal\\sweetalert2.css"
+    },
+    {
+      "Id": "X:\\DEVELOPMENT\\PROJECTS\\NET\\Undersoft\\Universer\\Undersoft.SDK\\src\\Undersoft.SDK.PresentR\\wwwroot\\lib\\swal\\sweetalert2.min.css",
+      "PackagePath": "staticwebassets\\lib\\swal\\sweetalert2.min.css"
+    },
+    {
+      "Id": "X:\\DEVELOPMENT\\PROJECTS\\NET\\Undersoft\\Universer\\Undersoft.SDK\\src\\Undersoft.SDK.PresentR\\wwwroot\\modules\\ajax.js",
+      "PackagePath": "staticwebassets\\modules\\ajax.js"
+    },
+    {
+      "Id": "X:\\DEVELOPMENT\\PROJECTS\\NET\\Undersoft\\Universer\\Undersoft.SDK\\src\\Undersoft.SDK.PresentR\\wwwroot\\modules\\autoredirect.js",
+      "PackagePath": "staticwebassets\\modules\\autoredirect.js"
+    },
+    {
+      "Id": "X:\\DEVELOPMENT\\PROJECTS\\NET\\Undersoft\\Universer\\Undersoft.SDK\\src\\Undersoft.SDK.PresentR\\wwwroot\\modules\\base\\base-component.js",
+      "PackagePath": "staticwebassets\\modules\\base\\base-component.js"
+    },
+    {
+      "Id": "X:\\DEVELOPMENT\\PROJECTS\\NET\\Undersoft\\Universer\\Undersoft.SDK\\src\\Undersoft.SDK.PresentR\\wwwroot\\modules\\base\\base-dropdown.js",
+      "PackagePath": "staticwebassets\\modules\\base\\base-dropdown.js"
+    },
+    {
+      "Id": "X:\\DEVELOPMENT\\PROJECTS\\NET\\Undersoft\\Universer\\Undersoft.SDK\\src\\Undersoft.SDK.PresentR\\wwwroot\\modules\\base\\blazor-component.js",
+      "PackagePath": "staticwebassets\\modules\\base\\blazor-component.js"
+    },
+    {
+      "Id": "X:\\DEVELOPMENT\\PROJECTS\\NET\\Undersoft\\Universer\\Undersoft.SDK\\src\\Undersoft.SDK.PresentR\\wwwroot\\modules\\base\\config.js",
+      "PackagePath": "staticwebassets\\modules\\base\\config.js"
+    },
+    {
+      "Id": "X:\\DEVELOPMENT\\PROJECTS\\NET\\Undersoft\\Universer\\Undersoft.SDK\\src\\Undersoft.SDK.PresentR\\wwwroot\\modules\\base\\data.js",
+      "PackagePath": "staticwebassets\\modules\\base\\data.js"
+    },
+    {
+      "Id": "X:\\DEVELOPMENT\\PROJECTS\\NET\\Undersoft\\Universer\\Undersoft.SDK\\src\\Undersoft.SDK.PresentR\\wwwroot\\modules\\base\\event-handler.js",
+      "PackagePath": "staticwebassets\\modules\\base\\event-handler.js"
+    },
+    {
+      "Id": "X:\\DEVELOPMENT\\PROJECTS\\NET\\Undersoft\\Universer\\Undersoft.SDK\\src\\Undersoft.SDK.PresentR\\wwwroot\\modules\\base\\index.js",
+      "PackagePath": "staticwebassets\\modules\\base\\index.js"
+    },
+    {
+      "Id": "X:\\DEVELOPMENT\\PROJECTS\\NET\\Undersoft\\Universer\\Undersoft.SDK\\src\\Undersoft.SDK.PresentR\\wwwroot\\modules\\base\\manipulator.js",
+      "PackagePath": "staticwebassets\\modules\\base\\manipulator.js"
+    },
+    {
+      "Id": "X:\\DEVELOPMENT\\PROJECTS\\NET\\Undersoft\\Universer\\Undersoft.SDK\\src\\Undersoft.SDK.PresentR\\wwwroot\\modules\\base\\simple-component.js",
+      "PackagePath": "staticwebassets\\modules\\base\\simple-component.js"
+    },
+    {
+      "Id": "X:\\DEVELOPMENT\\PROJECTS\\NET\\Undersoft\\Universer\\Undersoft.SDK\\src\\Undersoft.SDK.PresentR\\wwwroot\\modules\\base\\utility.js",
+      "PackagePath": "staticwebassets\\modules\\base\\utility.js"
+    },
+    {
+      "Id": "X:\\DEVELOPMENT\\PROJECTS\\NET\\Undersoft\\Universer\\Undersoft.SDK\\src\\Undersoft.SDK.PresentR\\wwwroot\\modules\\button.js",
+      "PackagePath": "staticwebassets\\modules\\button.js"
+    },
+    {
+      "Id": "X:\\DEVELOPMENT\\PROJECTS\\NET\\Undersoft\\Universer\\Undersoft.SDK\\src\\Undersoft.SDK.PresentR\\wwwroot\\modules\\confirm.js",
+      "PackagePath": "staticwebassets\\modules\\confirm.js"
+    },
+    {
+      "Id": "X:\\DEVELOPMENT\\PROJECTS\\NET\\Undersoft\\Universer\\Undersoft.SDK\\src\\Undersoft.SDK.PresentR\\wwwroot\\modules\\data.js",
+      "PackagePath": "staticwebassets\\modules\\data.js"
+    },
+    {
+      "Id": "X:\\DEVELOPMENT\\PROJECTS\\NET\\Undersoft\\Universer\\Undersoft.SDK\\src\\Undersoft.SDK.PresentR\\wwwroot\\modules\\download.js",
+      "PackagePath": "staticwebassets\\modules\\download.js"
+    },
+    {
+      "Id": "X:\\DEVELOPMENT\\PROJECTS\\NET\\Undersoft\\Universer\\Undersoft.SDK\\src\\Undersoft.SDK.PresentR\\wwwroot\\modules\\dropdown.js",
+      "PackagePath": "staticwebassets\\modules\\dropdown.js"
+    },
+    {
+      "Id": "X:\\DEVELOPMENT\\PROJECTS\\NET\\Undersoft\\Universer\\Undersoft.SDK\\src\\Undersoft.SDK.PresentR\\wwwroot\\modules\\event-handler.js",
+      "PackagePath": "staticwebassets\\modules\\event-handler.js"
+    },
+    {
+      "Id": "X:\\DEVELOPMENT\\PROJECTS\\NET\\Undersoft\\Universer\\Undersoft.SDK\\src\\Undersoft.SDK.PresentR\\wwwroot\\modules\\fullscreen.js",
+      "PackagePath": "staticwebassets\\modules\\fullscreen.js"
+    },
+    {
+      "Id": "X:\\DEVELOPMENT\\PROJECTS\\NET\\Undersoft\\Universer\\Undersoft.SDK\\src\\Undersoft.SDK.PresentR\\wwwroot\\modules\\multi-select.js",
+      "PackagePath": "staticwebassets\\modules\\multi-select.js"
+    },
+    {
+      "Id": "X:\\DEVELOPMENT\\PROJECTS\\NET\\Undersoft\\Universer\\Undersoft.SDK\\src\\Undersoft.SDK.PresentR\\wwwroot\\modules\\popover.js",
+      "PackagePath": "staticwebassets\\modules\\popover.js"
+    },
+    {
+      "Id": "X:\\DEVELOPMENT\\PROJECTS\\NET\\Undersoft\\Universer\\Undersoft.SDK\\src\\Undersoft.SDK.PresentR\\wwwroot\\modules\\responsive.js",
+      "PackagePath": "staticwebassets\\modules\\responsive.js"
+    },
+    {
+      "Id": "X:\\DEVELOPMENT\\PROJECTS\\NET\\Undersoft\\Universer\\Undersoft.SDK\\src\\Undersoft.SDK.PresentR\\wwwroot\\modules\\select-tree.js",
+      "PackagePath": "staticwebassets\\modules\\select-tree.js"
+    },
+    {
+      "Id": "X:\\DEVELOPMENT\\PROJECTS\\NET\\Undersoft\\Universer\\Undersoft.SDK\\src\\Undersoft.SDK.PresentR\\wwwroot\\modules\\select.js",
+      "PackagePath": "staticwebassets\\modules\\select.js"
+    },
+    {
+      "Id": "X:\\DEVELOPMENT\\PROJECTS\\NET\\Undersoft\\Universer\\Undersoft.SDK\\src\\Undersoft.SDK.PresentR\\wwwroot\\modules\\table-filter.js",
+      "PackagePath": "staticwebassets\\modules\\table-filter.js"
+    },
+    {
+      "Id": "X:\\DEVELOPMENT\\PROJECTS\\NET\\Undersoft\\Universer\\Undersoft.SDK\\src\\Undersoft.SDK.PresentR\\wwwroot\\modules\\table.js",
+      "PackagePath": "staticwebassets\\modules\\table.js"
+    },
+    {
+      "Id": "X:\\DEVELOPMENT\\PROJECTS\\NET\\Undersoft\\Universer\\Undersoft.SDK\\src\\Undersoft.SDK.PresentR\\wwwroot\\modules\\textarea.js",
+      "PackagePath": "staticwebassets\\modules\\textarea.js"
+    },
+    {
+      "Id": "X:\\DEVELOPMENT\\PROJECTS\\NET\\Undersoft\\Universer\\Undersoft.SDK\\src\\Undersoft.SDK.PresentR\\wwwroot\\modules\\tooltip.js",
+      "PackagePath": "staticwebassets\\modules\\tooltip.js"
+    },
+    {
+      "Id": "X:\\DEVELOPMENT\\PROJECTS\\NET\\Undersoft\\Universer\\Undersoft.SDK\\src\\Undersoft.SDK.PresentR\\wwwroot\\modules\\upload.js",
+      "PackagePath": "staticwebassets\\modules\\upload.js"
+    },
+    {
+      "Id": "X:\\DEVELOPMENT\\PROJECTS\\NET\\Undersoft\\Universer\\Undersoft.SDK\\src\\Undersoft.SDK.PresentR\\wwwroot\\modules\\utility.js",
+      "PackagePath": "staticwebassets\\modules\\utility.js"
+    },
+    {
+      "Id": "X:\\DEVELOPMENT\\PROJECTS\\NET\\Undersoft\\Universer\\Undersoft.SDK\\src\\Undersoft.SDK.PresentR\\wwwroot\\modules\\validate.js",
+      "PackagePath": "staticwebassets\\modules\\validate.js"
+    },
+    {
+      "Id": "X:\\DEVELOPMENT\\PROJECTS\\NET\\Undersoft\\Universer\\Undersoft.SDK\\src\\Undersoft.SDK.PresentR\\wwwroot\\qrcode.min.js",
+      "PackagePath": "staticwebassets\\qrcode.min.js"
+    },
+    {
+      "Id": "X:\\DEVELOPMENT\\PROJECTS\\NET\\Undersoft\\Universer\\Undersoft.SDK\\src\\Undersoft.SDK.PresentR\\wwwroot\\src\\css\\bootstrap.blazor.css",
+      "PackagePath": "staticwebassets\\src\\css\\bootstrap.blazor.css"
+    },
+    {
+      "Id": "X:\\DEVELOPMENT\\PROJECTS\\NET\\Undersoft\\Universer\\Undersoft.SDK\\src\\Undersoft.SDK.PresentR\\wwwroot\\src\\css\\motronic.css",
+      "PackagePath": "staticwebassets\\src\\css\\motronic.css"
+    },
+    {
+      "Id": "X:\\DEVELOPMENT\\PROJECTS\\NET\\Undersoft\\Universer\\Undersoft.SDK\\src\\Undersoft.SDK.PresentR\\wwwroot\\topology.js",
+      "PackagePath": "staticwebassets\\topology.js"
+    },
+    {
+      "Id": "X:\\DEVELOPMENT\\PROJECTS\\NET\\Undersoft\\Universer\\Undersoft.SDK\\src\\Undersoft.SDK.PresentR\\wwwroot\\video-js.min.css",
+      "PackagePath": "staticwebassets\\video-js.min.css"
+    },
+    {
+      "Id": "X:\\DEVELOPMENT\\PROJECTS\\NET\\Undersoft\\Universer\\Undersoft.SDK\\src\\Undersoft.SDK.PresentR\\wwwroot\\video.min.js",
+      "PackagePath": "staticwebassets\\video.min.js"
+    },
+    {
+      "Id": "X:\\DEVELOPMENT\\PROJECTS\\NET\\Undersoft\\Universer\\Undersoft.SDK\\src\\Undersoft.SDK.PresentR\\wwwroot\\webfonts\\fa-brands-400.ttf",
+      "PackagePath": "staticwebassets\\webfonts\\fa-brands-400.ttf"
+    },
+    {
+      "Id": "X:\\DEVELOPMENT\\PROJECTS\\NET\\Undersoft\\Universer\\Undersoft.SDK\\src\\Undersoft.SDK.PresentR\\wwwroot\\webfonts\\fa-brands-400.woff2",
+      "PackagePath": "staticwebassets\\webfonts\\fa-brands-400.woff2"
+    },
+    {
+      "Id": "X:\\DEVELOPMENT\\PROJECTS\\NET\\Undersoft\\Universer\\Undersoft.SDK\\src\\Undersoft.SDK.PresentR\\wwwroot\\webfonts\\fa-regular-400.ttf",
+      "PackagePath": "staticwebassets\\webfonts\\fa-regular-400.ttf"
+    },
+    {
+      "Id": "X:\\DEVELOPMENT\\PROJECTS\\NET\\Undersoft\\Universer\\Undersoft.SDK\\src\\Undersoft.SDK.PresentR\\wwwroot\\webfonts\\fa-regular-400.woff2",
+      "PackagePath": "staticwebassets\\webfonts\\fa-regular-400.woff2"
+    },
+    {
+      "Id": "X:\\DEVELOPMENT\\PROJECTS\\NET\\Undersoft\\Universer\\Undersoft.SDK\\src\\Undersoft.SDK.PresentR\\wwwroot\\webfonts\\fa-solid-900.ttf",
+      "PackagePath": "staticwebassets\\webfonts\\fa-solid-900.ttf"
+    },
+    {
+      "Id": "X:\\DEVELOPMENT\\PROJECTS\\NET\\Undersoft\\Universer\\Undersoft.SDK\\src\\Undersoft.SDK.PresentR\\wwwroot\\webfonts\\fa-solid-900.woff2",
+      "PackagePath": "staticwebassets\\webfonts\\fa-solid-900.woff2"
+    },
+    {
+      "Id": "X:\\DEVELOPMENT\\PROJECTS\\NET\\Undersoft\\Universer\\Undersoft.SDK\\src\\Undersoft.SDK.PresentR\\wwwroot\\webfonts\\fa-v4compatibility.ttf",
+      "PackagePath": "staticwebassets\\webfonts\\fa-v4compatibility.ttf"
+    },
+    {
+      "Id": "X:\\DEVELOPMENT\\PROJECTS\\NET\\Undersoft\\Universer\\Undersoft.SDK\\src\\Undersoft.SDK.PresentR\\wwwroot\\webfonts\\fa-v4compatibility.woff2",
+      "PackagePath": "staticwebassets\\webfonts\\fa-v4compatibility.woff2"
+    },
+    {
+      "Id": "X:\\DEVELOPMENT\\PROJECTS\\NET\\Undersoft\\Universer\\Undersoft.SDK\\src\\Undersoft.SDK.PresentR\\wwwroot\\zxing.min.js",
+      "PackagePath": "staticwebassets\\zxing.min.js"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.Undersoft.SDK.PresentR.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.Undersoft.SDK.PresentR.props",
+      "PackagePath": "build\\Undersoft.SDK.PresentR.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.Undersoft.SDK.PresentR.props",
+      "PackagePath": "buildMultiTargeting\\Undersoft.SDK.PresentR.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.Undersoft.SDK.PresentR.props",
+      "PackagePath": "buildTransitive\\Undersoft.SDK.PresentR.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

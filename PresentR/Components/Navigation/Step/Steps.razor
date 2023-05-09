@@ -1,0 +1,9 @@
+﻿@namespace PresentR.Components
+@inherits PresentrComponent
+@attribute [ExcludeFromCodeCoverage]
+
+<div @attributes="@AdditionalAttributes" class="@ClassString">
+    <CascadingValue Value="this" IsFixed="true">
+        @ChildContent
+    </CascadingValue>
+</div>

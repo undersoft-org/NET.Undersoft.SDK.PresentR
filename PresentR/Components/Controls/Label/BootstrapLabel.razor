@@ -1,0 +1,18 @@
+﻿@namespace PresentR.Components
+@inherits PresentrComponent
+
+@if (_showTooltip)
+{
+    <Tooltip Title="@Value">
+        @RenderLabel
+    </Tooltip>
+}
+else
+{
+    @RenderLabel
+}
+
+@code {
+    RenderFragment RenderLabel =>
+    @<label @attributes="AdditionalAttributes" class="@ClassString">@Value</label>;
+}

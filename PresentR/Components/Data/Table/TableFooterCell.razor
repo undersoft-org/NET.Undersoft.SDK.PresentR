@@ -1,0 +1,13 @@
+﻿@namespace PresentR.Components
+@inherits PresentrComponent
+
+@if (IsMobileMode)
+{
+    <div @attributes="@AdditionalAttributes" class="@ClassString">@GetText()</div>
+}
+else
+{
+    <td @attributes="@AdditionalAttributes">
+        <div class="@ClassString">@GetText()</div>
+    </td>
+}

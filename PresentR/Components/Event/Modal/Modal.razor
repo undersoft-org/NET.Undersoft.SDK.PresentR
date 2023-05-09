@@ -1,0 +1,9 @@
+﻿@namespace PresentR.Components
+@inherits PresentrModule
+@attribute [JSModuleAutoLoader(JSObjectReference = true)]
+
+<div @attributes="@AdditionalAttributes" class="@ClassString" tabindex="-1" role="dialog" data-bs-backdrop="@Backdrop" data-bs-keyboard="@KeyboardString" id="@Id">
+    <CascadingValue Value="this" IsFixed="true">
+        @ChildContent
+    </CascadingValue>
+</div>

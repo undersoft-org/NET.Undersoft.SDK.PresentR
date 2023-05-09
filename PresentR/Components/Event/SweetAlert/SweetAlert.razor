@@ -1,0 +1,9 @@
+﻿@namespace PresentR.Components
+@inherits PresentrComponent
+@inject SwalService Swal
+
+<div class="swal">
+    <Modal @ref="ModalContainer" IsKeyboard="false" OnCloseAsync="OnCloseAsync">
+        @RenderDialog()
+    </Modal>
+</div>

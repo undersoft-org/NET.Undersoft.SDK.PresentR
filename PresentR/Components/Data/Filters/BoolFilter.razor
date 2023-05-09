@@ -1,0 +1,11 @@
+﻿@namespace PresentR.Components
+@inherits FilterBase
+
+@if (IsHeaderRow)
+{
+    <Select Items="@Items" @bind-Value="@Value" OnSelectedItemChanged="_ => OnFilterValueChanged()" IsPopover="true"></Select>
+}
+else
+{
+    <Select Items="@Items" @bind-Value="@Value"></Select>
+}

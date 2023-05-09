@@ -1,0 +1,633 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = Undersoft.SDK.PresentR
+build_property.RootNamespace = Undersoft.SDK.PresentR
+build_property.ProjectDir = X:\DEVELOPMENT\PROJECTS\NET\Undersoft\Universer\Undersoft.SDK\src\Undersoft.SDK.PresentR\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = X:\DEVELOPMENT\PROJECTS\NET\Undersoft\Universer\Undersoft.SDK\src\Undersoft.SDK.PresentR
+build_property._RazorSourceGeneratorDebug = 
+
+[X:/DEVELOPMENT/PROJECTS/NET/Undersoft/Universer/Undersoft.SDK/src/Undersoft.SDK.PresentR/PresentR/Design/AudioVideo/Camera/Camera.razor]
+build_metadata.AdditionalFiles.TargetPath = UHJlc2VudFJcRGVzaWduXEF1ZGlvVmlkZW9cQ2FtZXJhXENhbWVyYS5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[X:/DEVELOPMENT/PROJECTS/NET/Undersoft/Universer/Undersoft.SDK/src/Undersoft.SDK.PresentR/PresentR/Design/AudioVideo/Speech/SpeechWave.razor]
+build_metadata.AdditionalFiles.TargetPath = UHJlc2VudFJcRGVzaWduXEF1ZGlvVmlkZW9cU3BlZWNoXFNwZWVjaFdhdmUucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[X:/DEVELOPMENT/PROJECTS/NET/Undersoft/Universer/Undersoft.SDK/src/Undersoft.SDK.PresentR/PresentR/Design/AudioVideo/VideoPlayer/VideoPlayer.razor]
+build_metadata.AdditionalFiles.TargetPath = UHJlc2VudFJcRGVzaWduXEF1ZGlvVmlkZW9cVmlkZW9QbGF5ZXJcVmlkZW9QbGF5ZXIucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[X:/DEVELOPMENT/PROJECTS/NET/Undersoft/Universer/Undersoft.SDK/src/Undersoft.SDK.PresentR/PresentR/Design/Base/Empty/Empty.razor]
+build_metadata.AdditionalFiles.TargetPath = UHJlc2VudFJcRGVzaWduXEJhc2VcRW1wdHlcRW1wdHkucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[X:/DEVELOPMENT/PROJECTS/NET/Undersoft/Universer/Undersoft.SDK/src/Undersoft.SDK.PresentR/PresentR/Design/Base/PresentrRoot.razor]
+build_metadata.AdditionalFiles.TargetPath = UHJlc2VudFJcRGVzaWduXEJhc2VcUHJlc2VudHJSb290LnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[X:/DEVELOPMENT/PROJECTS/NET/Undersoft/Universer/Undersoft.SDK/src/Undersoft.SDK.PresentR/PresentR/Design/Base/Reconnector/ReconnectorContent.razor]
+build_metadata.AdditionalFiles.TargetPath = UHJlc2VudFJcRGVzaWduXEJhc2VcUmVjb25uZWN0b3JcUmVjb25uZWN0b3JDb250ZW50LnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[X:/DEVELOPMENT/PROJECTS/NET/Undersoft/Universer/Undersoft.SDK/src/Undersoft.SDK.PresentR/PresentR/Design/Base/RenderTemplate.razor]
+build_metadata.AdditionalFiles.TargetPath = UHJlc2VudFJcRGVzaWduXEJhc2VcUmVuZGVyVGVtcGxhdGUucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[X:/DEVELOPMENT/PROJECTS/NET/Undersoft/Universer/Undersoft.SDK/src/Undersoft.SDK.PresentR/PresentR/Design/Base/Repeater/Repeater.razor]
+build_metadata.AdditionalFiles.TargetPath = UHJlc2VudFJcRGVzaWduXEJhc2VcUmVwZWF0ZXJcUmVwZWF0ZXIucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[X:/DEVELOPMENT/PROJECTS/NET/Undersoft/Universer/Undersoft.SDK/src/Undersoft.SDK.PresentR/PresentR/Design/Base/Transition/Transition.razor]
+build_metadata.AdditionalFiles.TargetPath = UHJlc2VudFJcRGVzaWduXEJhc2VcVHJhbnNpdGlvblxUcmFuc2l0aW9uLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[X:/DEVELOPMENT/PROJECTS/NET/Undersoft/Universer/Undersoft.SDK/src/Undersoft.SDK.PresentR/PresentR/Design/Chart/Chart.razor]
+build_metadata.AdditionalFiles.TargetPath = UHJlc2VudFJcRGVzaWduXENoYXJ0XENoYXJ0LnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[X:/DEVELOPMENT/PROJECTS/NET/Undersoft/Universer/Undersoft.SDK/src/Undersoft.SDK.PresentR/PresentR/Design/Controls/AutoComplete/AutoComplete.razor]
+build_metadata.AdditionalFiles.TargetPath = UHJlc2VudFJcRGVzaWduXENvbnRyb2xzXEF1dG9Db21wbGV0ZVxBdXRvQ29tcGxldGUucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[X:/DEVELOPMENT/PROJECTS/NET/Undersoft/Universer/Undersoft.SDK/src/Undersoft.SDK.PresentR/PresentR/Design/Controls/AutoFill/AutoFill.razor]
+build_metadata.AdditionalFiles.TargetPath = UHJlc2VudFJcRGVzaWduXENvbnRyb2xzXEF1dG9GaWxsXEF1dG9GaWxsLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[X:/DEVELOPMENT/PROJECTS/NET/Undersoft/Universer/Undersoft.SDK/src/Undersoft.SDK.PresentR/PresentR/Design/Controls/Badge/Badge.razor]
+build_metadata.AdditionalFiles.TargetPath = UHJlc2VudFJcRGVzaWduXENvbnRyb2xzXEJhZGdlXEJhZGdlLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[X:/DEVELOPMENT/PROJECTS/NET/Undersoft/Universer/Undersoft.SDK/src/Undersoft.SDK.PresentR/PresentR/Design/Controls/Button/Button.razor]
+build_metadata.AdditionalFiles.TargetPath = UHJlc2VudFJcRGVzaWduXENvbnRyb2xzXEJ1dHRvblxCdXR0b24ucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[X:/DEVELOPMENT/PROJECTS/NET/Undersoft/Universer/Undersoft.SDK/src/Undersoft.SDK.PresentR/PresentR/Design/Controls/Button/LinkButton.razor]
+build_metadata.AdditionalFiles.TargetPath = UHJlc2VudFJcRGVzaWduXENvbnRyb2xzXEJ1dHRvblxMaW5rQnV0dG9uLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[X:/DEVELOPMENT/PROJECTS/NET/Undersoft/Universer/Undersoft.SDK/src/Undersoft.SDK.PresentR/PresentR/Design/Controls/Button/PopConfirmButton.razor]
+build_metadata.AdditionalFiles.TargetPath = UHJlc2VudFJcRGVzaWduXENvbnRyb2xzXEJ1dHRvblxQb3BDb25maXJtQnV0dG9uLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[X:/DEVELOPMENT/PROJECTS/NET/Undersoft/Universer/Undersoft.SDK/src/Undersoft.SDK.PresentR/PresentR/Design/Controls/Button/PopConfirmButtonContent.razor]
+build_metadata.AdditionalFiles.TargetPath = UHJlc2VudFJcRGVzaWduXENvbnRyb2xzXEJ1dHRvblxQb3BDb25maXJtQnV0dG9uQ29udGVudC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[X:/DEVELOPMENT/PROJECTS/NET/Undersoft/Universer/Undersoft.SDK/src/Undersoft.SDK.PresentR/PresentR/Design/Controls/Button/PulseButton.razor]
+build_metadata.AdditionalFiles.TargetPath = UHJlc2VudFJcRGVzaWduXENvbnRyb2xzXEJ1dHRvblxQdWxzZUJ1dHRvbi5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[X:/DEVELOPMENT/PROJECTS/NET/Undersoft/Universer/Undersoft.SDK/src/Undersoft.SDK.PresentR/PresentR/Design/Controls/Button/SwitchButton.razor]
+build_metadata.AdditionalFiles.TargetPath = UHJlc2VudFJcRGVzaWduXENvbnRyb2xzXEJ1dHRvblxTd2l0Y2hCdXR0b24ucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[X:/DEVELOPMENT/PROJECTS/NET/Undersoft/Universer/Undersoft.SDK/src/Undersoft.SDK.PresentR/PresentR/Design/Controls/Cascader/Cascader.razor]
+build_metadata.AdditionalFiles.TargetPath = UHJlc2VudFJcRGVzaWduXENvbnRyb2xzXENhc2NhZGVyXENhc2NhZGVyLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[X:/DEVELOPMENT/PROJECTS/NET/Undersoft/Universer/Undersoft.SDK/src/Undersoft.SDK.PresentR/PresentR/Design/Controls/Cascader/SubCascader.razor]
+build_metadata.AdditionalFiles.TargetPath = UHJlc2VudFJcRGVzaWduXENvbnRyb2xzXENhc2NhZGVyXFN1YkNhc2NhZGVyLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[X:/DEVELOPMENT/PROJECTS/NET/Undersoft/Universer/Undersoft.SDK/src/Undersoft.SDK.PresentR/PresentR/Design/Controls/Checkbox/Checkbox.razor]
+build_metadata.AdditionalFiles.TargetPath = UHJlc2VudFJcRGVzaWduXENvbnRyb2xzXENoZWNrYm94XENoZWNrYm94LnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[X:/DEVELOPMENT/PROJECTS/NET/Undersoft/Universer/Undersoft.SDK/src/Undersoft.SDK.PresentR/PresentR/Design/Controls/Checkbox/CheckboxList.razor]
+build_metadata.AdditionalFiles.TargetPath = UHJlc2VudFJcRGVzaWduXENvbnRyb2xzXENoZWNrYm94XENoZWNrYm94TGlzdC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[X:/DEVELOPMENT/PROJECTS/NET/Undersoft/Universer/Undersoft.SDK/src/Undersoft.SDK.PresentR/PresentR/Design/Controls/Circle/Circle.razor]
+build_metadata.AdditionalFiles.TargetPath = UHJlc2VudFJcRGVzaWduXENvbnRyb2xzXENpcmNsZVxDaXJjbGUucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[X:/DEVELOPMENT/PROJECTS/NET/Undersoft/Universer/Undersoft.SDK/src/Undersoft.SDK.PresentR/PresentR/Design/Controls/ColorPicker/ColorPicker.razor]
+build_metadata.AdditionalFiles.TargetPath = UHJlc2VudFJcRGVzaWduXENvbnRyb2xzXENvbG9yUGlja2VyXENvbG9yUGlja2VyLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[X:/DEVELOPMENT/PROJECTS/NET/Undersoft/Universer/Undersoft.SDK/src/Undersoft.SDK.PresentR/PresentR/Design/Controls/CountUp/CountUp.razor]
+build_metadata.AdditionalFiles.TargetPath = UHJlc2VudFJcRGVzaWduXENvbnRyb2xzXENvdW50VXBcQ291bnRVcC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[X:/DEVELOPMENT/PROJECTS/NET/Undersoft/Universer/Undersoft.SDK/src/Undersoft.SDK.PresentR/PresentR/Design/Controls/DateTimePicker/DatePickerBody.razor]
+build_metadata.AdditionalFiles.TargetPath = UHJlc2VudFJcRGVzaWduXENvbnRyb2xzXERhdGVUaW1lUGlja2VyXERhdGVQaWNrZXJCb2R5LnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[X:/DEVELOPMENT/PROJECTS/NET/Undersoft/Universer/Undersoft.SDK/src/Undersoft.SDK.PresentR/PresentR/Design/Controls/DateTimePicker/DatePickerCell.razor]
+build_metadata.AdditionalFiles.TargetPath = UHJlc2VudFJcRGVzaWduXENvbnRyb2xzXERhdGVUaW1lUGlja2VyXERhdGVQaWNrZXJDZWxsLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[X:/DEVELOPMENT/PROJECTS/NET/Undersoft/Universer/Undersoft.SDK/src/Undersoft.SDK.PresentR/PresentR/Design/Controls/DateTimePicker/DateTimePicker.razor]
+build_metadata.AdditionalFiles.TargetPath = UHJlc2VudFJcRGVzaWduXENvbnRyb2xzXERhdGVUaW1lUGlja2VyXERhdGVUaW1lUGlja2VyLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[X:/DEVELOPMENT/PROJECTS/NET/Undersoft/Universer/Undersoft.SDK/src/Undersoft.SDK.PresentR/PresentR/Design/Controls/DateTimePicker/TimePickerBody.razor]
+build_metadata.AdditionalFiles.TargetPath = UHJlc2VudFJcRGVzaWduXENvbnRyb2xzXERhdGVUaW1lUGlja2VyXFRpbWVQaWNrZXJCb2R5LnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[X:/DEVELOPMENT/PROJECTS/NET/Undersoft/Universer/Undersoft.SDK/src/Undersoft.SDK.PresentR/PresentR/Design/Controls/DateTimePicker/TimePickerCell.razor]
+build_metadata.AdditionalFiles.TargetPath = UHJlc2VudFJcRGVzaWduXENvbnRyb2xzXERhdGVUaW1lUGlja2VyXFRpbWVQaWNrZXJDZWxsLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[X:/DEVELOPMENT/PROJECTS/NET/Undersoft/Universer/Undersoft.SDK/src/Undersoft.SDK.PresentR/PresentR/Design/Controls/DateTimeRange/DateTimeRange.razor]
+build_metadata.AdditionalFiles.TargetPath = UHJlc2VudFJcRGVzaWduXENvbnRyb2xzXERhdGVUaW1lUmFuZ2VcRGF0ZVRpbWVSYW5nZS5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[X:/DEVELOPMENT/PROJECTS/NET/Undersoft/Universer/Undersoft.SDK/src/Undersoft.SDK.PresentR/PresentR/Design/Controls/Display/Display.razor]
+build_metadata.AdditionalFiles.TargetPath = UHJlc2VudFJcRGVzaWduXENvbnRyb2xzXERpc3BsYXlcRGlzcGxheS5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[X:/DEVELOPMENT/PROJECTS/NET/Undersoft/Universer/Undersoft.SDK/src/Undersoft.SDK.PresentR/PresentR/Design/Controls/DragDrap/Dropzone.razor]
+build_metadata.AdditionalFiles.TargetPath = UHJlc2VudFJcRGVzaWduXENvbnRyb2xzXERyYWdEcmFwXERyb3B6b25lLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[X:/DEVELOPMENT/PROJECTS/NET/Undersoft/Universer/Undersoft.SDK/src/Undersoft.SDK.PresentR/PresentR/Design/Controls/DropdownWidget/DropdownWidget.razor]
+build_metadata.AdditionalFiles.TargetPath = UHJlc2VudFJcRGVzaWduXENvbnRyb2xzXERyb3Bkb3duV2lkZ2V0XERyb3Bkb3duV2lkZ2V0LnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[X:/DEVELOPMENT/PROJECTS/NET/Undersoft/Universer/Undersoft.SDK/src/Undersoft.SDK.PresentR/PresentR/Design/Controls/Dropdown/Dropdown.razor]
+build_metadata.AdditionalFiles.TargetPath = UHJlc2VudFJcRGVzaWduXENvbnRyb2xzXERyb3Bkb3duXERyb3Bkb3duLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[X:/DEVELOPMENT/PROJECTS/NET/Undersoft/Universer/Undersoft.SDK/src/Undersoft.SDK.PresentR/PresentR/Design/Controls/GroupBox/GroupBox.razor]
+build_metadata.AdditionalFiles.TargetPath = UHJlc2VudFJcRGVzaWduXENvbnRyb2xzXEdyb3VwQm94XEdyb3VwQm94LnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[X:/DEVELOPMENT/PROJECTS/NET/Undersoft/Universer/Undersoft.SDK/src/Undersoft.SDK.PresentR/PresentR/Design/Controls/InputNumber/BootstrapInputNumber.razor]
+build_metadata.AdditionalFiles.TargetPath = UHJlc2VudFJcRGVzaWduXENvbnRyb2xzXElucHV0TnVtYmVyXEJvb3RzdHJhcElucHV0TnVtYmVyLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[X:/DEVELOPMENT/PROJECTS/NET/Undersoft/Universer/Undersoft.SDK/src/Undersoft.SDK.PresentR/PresentR/Design/Controls/Input/BootstrapInput.razor]
+build_metadata.AdditionalFiles.TargetPath = UHJlc2VudFJcRGVzaWduXENvbnRyb2xzXElucHV0XEJvb3RzdHJhcElucHV0LnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[X:/DEVELOPMENT/PROJECTS/NET/Undersoft/Universer/Undersoft.SDK/src/Undersoft.SDK.PresentR/PresentR/Design/Controls/Input/BootstrapInputGroup.razor]
+build_metadata.AdditionalFiles.TargetPath = UHJlc2VudFJcRGVzaWduXENvbnRyb2xzXElucHV0XEJvb3RzdHJhcElucHV0R3JvdXAucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[X:/DEVELOPMENT/PROJECTS/NET/Undersoft/Universer/Undersoft.SDK/src/Undersoft.SDK.PresentR/PresentR/Design/Controls/Input/BootstrapInputGroupIcon.razor]
+build_metadata.AdditionalFiles.TargetPath = UHJlc2VudFJcRGVzaWduXENvbnRyb2xzXElucHV0XEJvb3RzdHJhcElucHV0R3JvdXBJY29uLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[X:/DEVELOPMENT/PROJECTS/NET/Undersoft/Universer/Undersoft.SDK/src/Undersoft.SDK.PresentR/PresentR/Design/Controls/Input/BootstrapInputGroupLabel.razor]
+build_metadata.AdditionalFiles.TargetPath = UHJlc2VudFJcRGVzaWduXENvbnRyb2xzXElucHV0XEJvb3RzdHJhcElucHV0R3JvdXBMYWJlbC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[X:/DEVELOPMENT/PROJECTS/NET/Undersoft/Universer/Undersoft.SDK/src/Undersoft.SDK.PresentR/PresentR/Design/Controls/Input/FloatingLabel.razor]
+build_metadata.AdditionalFiles.TargetPath = UHJlc2VudFJcRGVzaWduXENvbnRyb2xzXElucHV0XEZsb2F0aW5nTGFiZWwucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[X:/DEVELOPMENT/PROJECTS/NET/Undersoft/Universer/Undersoft.SDK/src/Undersoft.SDK.PresentR/PresentR/Design/Controls/IpAddress/IpAddress.razor]
+build_metadata.AdditionalFiles.TargetPath = UHJlc2VudFJcRGVzaWduXENvbnRyb2xzXElwQWRkcmVzc1xJcEFkZHJlc3MucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[X:/DEVELOPMENT/PROJECTS/NET/Undersoft/Universer/Undersoft.SDK/src/Undersoft.SDK.PresentR/PresentR/Design/Controls/Label/BootstrapLabel.razor]
+build_metadata.AdditionalFiles.TargetPath = UHJlc2VudFJcRGVzaWduXENvbnRyb2xzXExhYmVsXEJvb3RzdHJhcExhYmVsLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[X:/DEVELOPMENT/PROJECTS/NET/Undersoft/Universer/Undersoft.SDK/src/Undersoft.SDK.PresentR/PresentR/Design/Controls/Progress/Progress.razor]
+build_metadata.AdditionalFiles.TargetPath = UHJlc2VudFJcRGVzaWduXENvbnRyb2xzXFByb2dyZXNzXFByb2dyZXNzLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[X:/DEVELOPMENT/PROJECTS/NET/Undersoft/Universer/Undersoft.SDK/src/Undersoft.SDK.PresentR/PresentR/Design/Controls/Radio/Radio.razor]
+build_metadata.AdditionalFiles.TargetPath = UHJlc2VudFJcRGVzaWduXENvbnRyb2xzXFJhZGlvXFJhZGlvLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[X:/DEVELOPMENT/PROJECTS/NET/Undersoft/Universer/Undersoft.SDK/src/Undersoft.SDK.PresentR/PresentR/Design/Controls/Radio/RadioList.razor]
+build_metadata.AdditionalFiles.TargetPath = UHJlc2VudFJcRGVzaWduXENvbnRyb2xzXFJhZGlvXFJhZGlvTGlzdC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[X:/DEVELOPMENT/PROJECTS/NET/Undersoft/Universer/Undersoft.SDK/src/Undersoft.SDK.PresentR/PresentR/Design/Controls/Rate/Rate.razor]
+build_metadata.AdditionalFiles.TargetPath = UHJlc2VudFJcRGVzaWduXENvbnRyb2xzXFJhdGVcUmF0ZS5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[X:/DEVELOPMENT/PROJECTS/NET/Undersoft/Universer/Undersoft.SDK/src/Undersoft.SDK.PresentR/PresentR/Design/Controls/Scroll/Scroll.razor]
+build_metadata.AdditionalFiles.TargetPath = UHJlc2VudFJcRGVzaWduXENvbnRyb2xzXFNjcm9sbFxTY3JvbGwucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[X:/DEVELOPMENT/PROJECTS/NET/Undersoft/Universer/Undersoft.SDK/src/Undersoft.SDK.PresentR/PresentR/Design/Controls/Select/MultiSelect.razor]
+build_metadata.AdditionalFiles.TargetPath = UHJlc2VudFJcRGVzaWduXENvbnRyb2xzXFNlbGVjdFxNdWx0aVNlbGVjdC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[X:/DEVELOPMENT/PROJECTS/NET/Undersoft/Universer/Undersoft.SDK/src/Undersoft.SDK.PresentR/PresentR/Design/Controls/Select/Select.razor]
+build_metadata.AdditionalFiles.TargetPath = UHJlc2VudFJcRGVzaWduXENvbnRyb2xzXFNlbGVjdFxTZWxlY3QucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[X:/DEVELOPMENT/PROJECTS/NET/Undersoft/Universer/Undersoft.SDK/src/Undersoft.SDK.PresentR/PresentR/Design/Controls/Select/SelectTree.razor]
+build_metadata.AdditionalFiles.TargetPath = UHJlc2VudFJcRGVzaWduXENvbnRyb2xzXFNlbGVjdFxTZWxlY3RUcmVlLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[X:/DEVELOPMENT/PROJECTS/NET/Undersoft/Universer/Undersoft.SDK/src/Undersoft.SDK.PresentR/PresentR/Design/Controls/Switch/NullSwitch.razor]
+build_metadata.AdditionalFiles.TargetPath = UHJlc2VudFJcRGVzaWduXENvbnRyb2xzXFN3aXRjaFxOdWxsU3dpdGNoLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[X:/DEVELOPMENT/PROJECTS/NET/Undersoft/Universer/Undersoft.SDK/src/Undersoft.SDK.PresentR/PresentR/Design/Controls/Switch/Switch.razor]
+build_metadata.AdditionalFiles.TargetPath = UHJlc2VudFJcRGVzaWduXENvbnRyb2xzXFN3aXRjaFxTd2l0Y2gucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[X:/DEVELOPMENT/PROJECTS/NET/Undersoft/Universer/Undersoft.SDK/src/Undersoft.SDK.PresentR/PresentR/Design/Controls/Tag/Tag.razor]
+build_metadata.AdditionalFiles.TargetPath = UHJlc2VudFJcRGVzaWduXENvbnRyb2xzXFRhZ1xUYWcucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[X:/DEVELOPMENT/PROJECTS/NET/Undersoft/Universer/Undersoft.SDK/src/Undersoft.SDK.PresentR/PresentR/Design/Controls/Textarea/Textarea.razor]
+build_metadata.AdditionalFiles.TargetPath = UHJlc2VudFJcRGVzaWduXENvbnRyb2xzXFRleHRhcmVhXFRleHRhcmVhLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[X:/DEVELOPMENT/PROJECTS/NET/Undersoft/Universer/Undersoft.SDK/src/Undersoft.SDK.PresentR/PresentR/Design/Controls/Toggle/Toggle.razor]
+build_metadata.AdditionalFiles.TargetPath = UHJlc2VudFJcRGVzaWduXENvbnRyb2xzXFRvZ2dsZVxUb2dnbGUucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[X:/DEVELOPMENT/PROJECTS/NET/Undersoft/Universer/Undersoft.SDK/src/Undersoft.SDK.PresentR/PresentR/Design/Controls/TooltipLight/Light.razor]
+build_metadata.AdditionalFiles.TargetPath = UHJlc2VudFJcRGVzaWduXENvbnRyb2xzXFRvb2x0aXBMaWdodFxMaWdodC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[X:/DEVELOPMENT/PROJECTS/NET/Undersoft/Universer/Undersoft.SDK/src/Undersoft.SDK.PresentR/PresentR/Design/Controls/Tooltip/Tooltip.razor]
+build_metadata.AdditionalFiles.TargetPath = UHJlc2VudFJcRGVzaWduXENvbnRyb2xzXFRvb2x0aXBcVG9vbHRpcC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[X:/DEVELOPMENT/PROJECTS/NET/Undersoft/Universer/Undersoft.SDK/src/Undersoft.SDK.PresentR/PresentR/Design/Data/Collapse/Collapse.razor]
+build_metadata.AdditionalFiles.TargetPath = UHJlc2VudFJcRGVzaWduXERhdGFcQ29sbGFwc2VcQ29sbGFwc2UucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[X:/DEVELOPMENT/PROJECTS/NET/Undersoft/Universer/Undersoft.SDK/src/Undersoft.SDK.PresentR/PresentR/Design/Data/EditorForm/EditorForm.razor]
+build_metadata.AdditionalFiles.TargetPath = UHJlc2VudFJcRGVzaWduXERhdGFcRWRpdG9yRm9ybVxFZGl0b3JGb3JtLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[X:/DEVELOPMENT/PROJECTS/NET/Undersoft/Universer/Undersoft.SDK/src/Undersoft.SDK.PresentR/PresentR/Design/Data/Filters/BoolFilter.razor]
+build_metadata.AdditionalFiles.TargetPath = UHJlc2VudFJcRGVzaWduXERhdGFcRmlsdGVyc1xCb29sRmlsdGVyLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[X:/DEVELOPMENT/PROJECTS/NET/Undersoft/Universer/Undersoft.SDK/src/Undersoft.SDK.PresentR/PresentR/Design/Data/Filters/DateTimeFilter.razor]
+build_metadata.AdditionalFiles.TargetPath = UHJlc2VudFJcRGVzaWduXERhdGFcRmlsdGVyc1xEYXRlVGltZUZpbHRlci5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[X:/DEVELOPMENT/PROJECTS/NET/Undersoft/Universer/Undersoft.SDK/src/Undersoft.SDK.PresentR/PresentR/Design/Data/Filters/EnumFilter.razor]
+build_metadata.AdditionalFiles.TargetPath = UHJlc2VudFJcRGVzaWduXERhdGFcRmlsdGVyc1xFbnVtRmlsdGVyLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[X:/DEVELOPMENT/PROJECTS/NET/Undersoft/Universer/Undersoft.SDK/src/Undersoft.SDK.PresentR/PresentR/Design/Data/Filters/FilterButton.razor]
+build_metadata.AdditionalFiles.TargetPath = UHJlc2VudFJcRGVzaWduXERhdGFcRmlsdGVyc1xGaWx0ZXJCdXR0b24ucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[X:/DEVELOPMENT/PROJECTS/NET/Undersoft/Universer/Undersoft.SDK/src/Undersoft.SDK.PresentR/PresentR/Design/Data/Filters/FilterLogicItem.razor]
+build_metadata.AdditionalFiles.TargetPath = UHJlc2VudFJcRGVzaWduXERhdGFcRmlsdGVyc1xGaWx0ZXJMb2dpY0l0ZW0ucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[X:/DEVELOPMENT/PROJECTS/NET/Undersoft/Universer/Undersoft.SDK/src/Undersoft.SDK.PresentR/PresentR/Design/Data/Filters/LookupFilter.razor]
+build_metadata.AdditionalFiles.TargetPath = UHJlc2VudFJcRGVzaWduXERhdGFcRmlsdGVyc1xMb29rdXBGaWx0ZXIucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[X:/DEVELOPMENT/PROJECTS/NET/Undersoft/Universer/Undersoft.SDK/src/Undersoft.SDK.PresentR/PresentR/Design/Data/Filters/NumberFilter.razor]
+build_metadata.AdditionalFiles.TargetPath = UHJlc2VudFJcRGVzaWduXERhdGFcRmlsdGVyc1xOdW1iZXJGaWx0ZXIucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[X:/DEVELOPMENT/PROJECTS/NET/Undersoft/Universer/Undersoft.SDK/src/Undersoft.SDK.PresentR/PresentR/Design/Data/Filters/StringFilter.razor]
+build_metadata.AdditionalFiles.TargetPath = UHJlc2VudFJcRGVzaWduXERhdGFcRmlsdGVyc1xTdHJpbmdGaWx0ZXIucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[X:/DEVELOPMENT/PROJECTS/NET/Undersoft/Universer/Undersoft.SDK/src/Undersoft.SDK.PresentR/PresentR/Design/Data/Filters/TableFilter.razor]
+build_metadata.AdditionalFiles.TargetPath = UHJlc2VudFJcRGVzaWduXERhdGFcRmlsdGVyc1xUYWJsZUZpbHRlci5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[X:/DEVELOPMENT/PROJECTS/NET/Undersoft/Universer/Undersoft.SDK/src/Undersoft.SDK.PresentR/PresentR/Design/Data/ListView/ListView.razor]
+build_metadata.AdditionalFiles.TargetPath = UHJlc2VudFJcRGVzaWduXERhdGFcTGlzdFZpZXdcTGlzdFZpZXcucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[X:/DEVELOPMENT/PROJECTS/NET/Undersoft/Universer/Undersoft.SDK/src/Undersoft.SDK.PresentR/PresentR/Design/Data/Markdown/Markdown.razor]
+build_metadata.AdditionalFiles.TargetPath = UHJlc2VudFJcRGVzaWduXERhdGFcTWFya2Rvd25cTWFya2Rvd24ucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[X:/DEVELOPMENT/PROJECTS/NET/Undersoft/Universer/Undersoft.SDK/src/Undersoft.SDK.PresentR/PresentR/Design/Data/Pagination/GotoNavigator.razor]
+build_metadata.AdditionalFiles.TargetPath = UHJlc2VudFJcRGVzaWduXERhdGFcUGFnaW5hdGlvblxHb3RvTmF2aWdhdG9yLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[X:/DEVELOPMENT/PROJECTS/NET/Undersoft/Universer/Undersoft.SDK/src/Undersoft.SDK.PresentR/PresentR/Design/Data/Pagination/Pagination.razor]
+build_metadata.AdditionalFiles.TargetPath = UHJlc2VudFJcRGVzaWduXERhdGFcUGFnaW5hdGlvblxQYWdpbmF0aW9uLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[X:/DEVELOPMENT/PROJECTS/NET/Undersoft/Universer/Undersoft.SDK/src/Undersoft.SDK.PresentR/PresentR/Design/Data/Pagination/PaginationItem.razor]
+build_metadata.AdditionalFiles.TargetPath = UHJlc2VudFJcRGVzaWduXERhdGFcUGFnaW5hdGlvblxQYWdpbmF0aW9uSXRlbS5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[X:/DEVELOPMENT/PROJECTS/NET/Undersoft/Universer/Undersoft.SDK/src/Undersoft.SDK.PresentR/PresentR/Design/Data/Row/Row.razor]
+build_metadata.AdditionalFiles.TargetPath = UHJlc2VudFJcRGVzaWduXERhdGFcUm93XFJvdy5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[X:/DEVELOPMENT/PROJECTS/NET/Undersoft/Universer/Undersoft.SDK/src/Undersoft.SDK.PresentR/PresentR/Design/Data/Search/Search.razor]
+build_metadata.AdditionalFiles.TargetPath = UHJlc2VudFJcRGVzaWduXERhdGFcU2VhcmNoXFNlYXJjaC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[X:/DEVELOPMENT/PROJECTS/NET/Undersoft/Universer/Undersoft.SDK/src/Undersoft.SDK.PresentR/PresentR/Design/Data/Table/Table.razor]
+build_metadata.AdditionalFiles.TargetPath = UHJlc2VudFJcRGVzaWduXERhdGFcVGFibGVcVGFibGUucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[X:/DEVELOPMENT/PROJECTS/NET/Undersoft/Universer/Undersoft.SDK/src/Undersoft.SDK.PresentR/PresentR/Design/Data/Table/TableExtensionButton.razor]
+build_metadata.AdditionalFiles.TargetPath = UHJlc2VudFJcRGVzaWduXERhdGFcVGFibGVcVGFibGVFeHRlbnNpb25CdXR0b24ucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[X:/DEVELOPMENT/PROJECTS/NET/Undersoft/Universer/Undersoft.SDK/src/Undersoft.SDK.PresentR/PresentR/Design/Data/Table/TableFooterCell.razor]
+build_metadata.AdditionalFiles.TargetPath = UHJlc2VudFJcRGVzaWduXERhdGFcVGFibGVcVGFibGVGb290ZXJDZWxsLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[X:/DEVELOPMENT/PROJECTS/NET/Undersoft/Universer/Undersoft.SDK/src/Undersoft.SDK.PresentR/PresentR/Design/Data/Table/TableToolbar.razor]
+build_metadata.AdditionalFiles.TargetPath = UHJlc2VudFJcRGVzaWduXERhdGFcVGFibGVcVGFibGVUb29sYmFyLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[X:/DEVELOPMENT/PROJECTS/NET/Undersoft/Universer/Undersoft.SDK/src/Undersoft.SDK.PresentR/PresentR/Design/Data/Transfer/Transfer.razor]
+build_metadata.AdditionalFiles.TargetPath = UHJlc2VudFJcRGVzaWduXERhdGFcVHJhbnNmZXJcVHJhbnNmZXIucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[X:/DEVELOPMENT/PROJECTS/NET/Undersoft/Universer/Undersoft.SDK/src/Undersoft.SDK.PresentR/PresentR/Design/Data/Transfer/TransferPanel.razor]
+build_metadata.AdditionalFiles.TargetPath = UHJlc2VudFJcRGVzaWduXERhdGFcVHJhbnNmZXJcVHJhbnNmZXJQYW5lbC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[X:/DEVELOPMENT/PROJECTS/NET/Undersoft/Universer/Undersoft.SDK/src/Undersoft.SDK.PresentR/PresentR/Design/Data/TreeView/TreeView.razor]
+build_metadata.AdditionalFiles.TargetPath = UHJlc2VudFJcRGVzaWduXERhdGFcVHJlZVZpZXdcVHJlZVZpZXcucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[X:/DEVELOPMENT/PROJECTS/NET/Undersoft/Universer/Undersoft.SDK/src/Undersoft.SDK.PresentR/PresentR/Design/Data/Tree/Tree.razor]
+build_metadata.AdditionalFiles.TargetPath = UHJlc2VudFJcRGVzaWduXERhdGFcVHJlZVxUcmVlLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[X:/DEVELOPMENT/PROJECTS/NET/Undersoft/Universer/Undersoft.SDK/src/Undersoft.SDK.PresentR/PresentR/Design/Data/Upload/AvatarUpload.razor]
+build_metadata.AdditionalFiles.TargetPath = UHJlc2VudFJcRGVzaWduXERhdGFcVXBsb2FkXEF2YXRhclVwbG9hZC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[X:/DEVELOPMENT/PROJECTS/NET/Undersoft/Universer/Undersoft.SDK/src/Undersoft.SDK.PresentR/PresentR/Design/Data/Upload/ButtonUpload.razor]
+build_metadata.AdditionalFiles.TargetPath = UHJlc2VudFJcRGVzaWduXERhdGFcVXBsb2FkXEJ1dHRvblVwbG9hZC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[X:/DEVELOPMENT/PROJECTS/NET/Undersoft/Universer/Undersoft.SDK/src/Undersoft.SDK.PresentR/PresentR/Design/Data/Upload/CardUpload.razor]
+build_metadata.AdditionalFiles.TargetPath = UHJlc2VudFJcRGVzaWduXERhdGFcVXBsb2FkXENhcmRVcGxvYWQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[X:/DEVELOPMENT/PROJECTS/NET/Undersoft/Universer/Undersoft.SDK/src/Undersoft.SDK.PresentR/PresentR/Design/Data/Upload/InputUpload.razor]
+build_metadata.AdditionalFiles.TargetPath = UHJlc2VudFJcRGVzaWduXERhdGFcVXBsb2FkXElucHV0VXBsb2FkLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[X:/DEVELOPMENT/PROJECTS/NET/Undersoft/Universer/Undersoft.SDK/src/Undersoft.SDK.PresentR/PresentR/Design/Data/ValidateForm/ValidateForm.razor]
+build_metadata.AdditionalFiles.TargetPath = UHJlc2VudFJcRGVzaWduXERhdGFcVmFsaWRhdGVGb3JtXFZhbGlkYXRlRm9ybS5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[X:/DEVELOPMENT/PROJECTS/NET/Undersoft/Universer/Undersoft.SDK/src/Undersoft.SDK.PresentR/PresentR/Design/Event/Alert/Alert.razor]
+build_metadata.AdditionalFiles.TargetPath = UHJlc2VudFJcRGVzaWduXEV2ZW50XEFsZXJ0XEFsZXJ0LnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[X:/DEVELOPMENT/PROJECTS/NET/Undersoft/Universer/Undersoft.SDK/src/Undersoft.SDK.PresentR/PresentR/Design/Event/Dialog/Dialog.razor]
+build_metadata.AdditionalFiles.TargetPath = UHJlc2VudFJcRGVzaWduXEV2ZW50XERpYWxvZ1xEaWFsb2cucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[X:/DEVELOPMENT/PROJECTS/NET/Undersoft/Universer/Undersoft.SDK/src/Undersoft.SDK.PresentR/PresentR/Design/Event/Dialog/EditDialog.razor]
+build_metadata.AdditionalFiles.TargetPath = UHJlc2VudFJcRGVzaWduXEV2ZW50XERpYWxvZ1xFZGl0RGlhbG9nLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[X:/DEVELOPMENT/PROJECTS/NET/Undersoft/Universer/Undersoft.SDK/src/Undersoft.SDK.PresentR/PresentR/Design/Event/Dialog/IconDialog.razor]
+build_metadata.AdditionalFiles.TargetPath = UHJlc2VudFJcRGVzaWduXEV2ZW50XERpYWxvZ1xJY29uRGlhbG9nLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[X:/DEVELOPMENT/PROJECTS/NET/Undersoft/Universer/Undersoft.SDK/src/Undersoft.SDK.PresentR/PresentR/Design/Event/Dialog/ResultDialogFooter.razor]
+build_metadata.AdditionalFiles.TargetPath = UHJlc2VudFJcRGVzaWduXEV2ZW50XERpYWxvZ1xSZXN1bHREaWFsb2dGb290ZXIucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[X:/DEVELOPMENT/PROJECTS/NET/Undersoft/Universer/Undersoft.SDK/src/Undersoft.SDK.PresentR/PresentR/Design/Event/Dialog/SearchDialog.razor]
+build_metadata.AdditionalFiles.TargetPath = UHJlc2VudFJcRGVzaWduXEV2ZW50XERpYWxvZ1xTZWFyY2hEaWFsb2cucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[X:/DEVELOPMENT/PROJECTS/NET/Undersoft/Universer/Undersoft.SDK/src/Undersoft.SDK.PresentR/PresentR/Design/Event/Message/Message.razor]
+build_metadata.AdditionalFiles.TargetPath = UHJlc2VudFJcRGVzaWduXEV2ZW50XE1lc3NhZ2VcTWVzc2FnZS5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[X:/DEVELOPMENT/PROJECTS/NET/Undersoft/Universer/Undersoft.SDK/src/Undersoft.SDK.PresentR/PresentR/Design/Event/Message/MessageItem.razor]
+build_metadata.AdditionalFiles.TargetPath = UHJlc2VudFJcRGVzaWduXEV2ZW50XE1lc3NhZ2VcTWVzc2FnZUl0ZW0ucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[X:/DEVELOPMENT/PROJECTS/NET/Undersoft/Universer/Undersoft.SDK/src/Undersoft.SDK.PresentR/PresentR/Design/Event/Modal/Modal.razor]
+build_metadata.AdditionalFiles.TargetPath = UHJlc2VudFJcRGVzaWduXEV2ZW50XE1vZGFsXE1vZGFsLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[X:/DEVELOPMENT/PROJECTS/NET/Undersoft/Universer/Undersoft.SDK/src/Undersoft.SDK.PresentR/PresentR/Design/Event/Modal/ModalDialog.razor]
+build_metadata.AdditionalFiles.TargetPath = UHJlc2VudFJcRGVzaWduXEV2ZW50XE1vZGFsXE1vZGFsRGlhbG9nLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[X:/DEVELOPMENT/PROJECTS/NET/Undersoft/Universer/Undersoft.SDK/src/Undersoft.SDK.PresentR/PresentR/Design/Event/SweetAlert/SweetAlert.razor]
+build_metadata.AdditionalFiles.TargetPath = UHJlc2VudFJcRGVzaWduXEV2ZW50XFN3ZWV0QWxlcnRcU3dlZXRBbGVydC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[X:/DEVELOPMENT/PROJECTS/NET/Undersoft/Universer/Undersoft.SDK/src/Undersoft.SDK.PresentR/PresentR/Design/Event/SweetAlert/SweetAlertBody.razor]
+build_metadata.AdditionalFiles.TargetPath = UHJlc2VudFJcRGVzaWduXEV2ZW50XFN3ZWV0QWxlcnRcU3dlZXRBbGVydEJvZHkucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[X:/DEVELOPMENT/PROJECTS/NET/Undersoft/Universer/Undersoft.SDK/src/Undersoft.SDK.PresentR/PresentR/Design/Event/Toast/Toast.razor]
+build_metadata.AdditionalFiles.TargetPath = UHJlc2VudFJcRGVzaWduXEV2ZW50XFRvYXN0XFRvYXN0LnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[X:/DEVELOPMENT/PROJECTS/NET/Undersoft/Universer/Undersoft.SDK/src/Undersoft.SDK.PresentR/PresentR/Design/Event/Toast/ToastContainer.razor]
+build_metadata.AdditionalFiles.TargetPath = UHJlc2VudFJcRGVzaWduXEV2ZW50XFRvYXN0XFRvYXN0Q29udGFpbmVyLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[X:/DEVELOPMENT/PROJECTS/NET/Undersoft/Universer/Undersoft.SDK/src/Undersoft.SDK.PresentR/PresentR/Design/Icons/FAIconList.razor]
+build_metadata.AdditionalFiles.TargetPath = UHJlc2VudFJcRGVzaWduXEljb25zXEZBSWNvbkxpc3QucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[X:/DEVELOPMENT/PROJECTS/NET/Undersoft/Universer/Undersoft.SDK/src/Undersoft.SDK.PresentR/PresentR/Design/Main/Card/Card.razor]
+build_metadata.AdditionalFiles.TargetPath = UHJlc2VudFJcRGVzaWduXE1haW5cQ2FyZFxDYXJkLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[X:/DEVELOPMENT/PROJECTS/NET/Undersoft/Universer/Undersoft.SDK/src/Undersoft.SDK.PresentR/PresentR/Design/Main/Console/Console.razor]
+build_metadata.AdditionalFiles.TargetPath = UHJlc2VudFJcRGVzaWduXE1haW5cQ29uc29sZVxDb25zb2xlLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[X:/DEVELOPMENT/PROJECTS/NET/Undersoft/Universer/Undersoft.SDK/src/Undersoft.SDK.PresentR/PresentR/Design/Main/Console/ConsoleLogger.razor]
+build_metadata.AdditionalFiles.TargetPath = UHJlc2VudFJcRGVzaWduXE1haW5cQ29uc29sZVxDb25zb2xlTG9nZ2VyLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[X:/DEVELOPMENT/PROJECTS/NET/Undersoft/Universer/Undersoft.SDK/src/Undersoft.SDK.PresentR/PresentR/Design/Main/Divider/Divider.razor]
+build_metadata.AdditionalFiles.TargetPath = UHJlc2VudFJcRGVzaWduXE1haW5cRGl2aWRlclxEaXZpZGVyLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[X:/DEVELOPMENT/PROJECTS/NET/Undersoft/Universer/Undersoft.SDK/src/Undersoft.SDK.PresentR/PresentR/Design/Main/Footer/Footer.razor]
+build_metadata.AdditionalFiles.TargetPath = UHJlc2VudFJcRGVzaWduXE1haW5cRm9vdGVyXEZvb3Rlci5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[X:/DEVELOPMENT/PROJECTS/NET/Undersoft/Universer/Undersoft.SDK/src/Undersoft.SDK.PresentR/PresentR/Design/Main/Layout/Layout.razor]
+build_metadata.AdditionalFiles.TargetPath = UHJlc2VudFJcRGVzaWduXE1haW5cTGF5b3V0XExheW91dC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[X:/DEVELOPMENT/PROJECTS/NET/Undersoft/Universer/Undersoft.SDK/src/Undersoft.SDK.PresentR/PresentR/Design/Main/Skeleton/SkeletonAvatar.razor]
+build_metadata.AdditionalFiles.TargetPath = UHJlc2VudFJcRGVzaWduXE1haW5cU2tlbGV0b25cU2tlbGV0b25BdmF0YXIucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[X:/DEVELOPMENT/PROJECTS/NET/Undersoft/Universer/Undersoft.SDK/src/Undersoft.SDK.PresentR/PresentR/Design/Main/Skeleton/SkeletonEditor.razor]
+build_metadata.AdditionalFiles.TargetPath = UHJlc2VudFJcRGVzaWduXE1haW5cU2tlbGV0b25cU2tlbGV0b25FZGl0b3IucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[X:/DEVELOPMENT/PROJECTS/NET/Undersoft/Universer/Undersoft.SDK/src/Undersoft.SDK.PresentR/PresentR/Design/Main/Skeleton/SkeletonParagraph.razor]
+build_metadata.AdditionalFiles.TargetPath = UHJlc2VudFJcRGVzaWduXE1haW5cU2tlbGV0b25cU2tlbGV0b25QYXJhZ3JhcGgucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[X:/DEVELOPMENT/PROJECTS/NET/Undersoft/Universer/Undersoft.SDK/src/Undersoft.SDK.PresentR/PresentR/Design/Main/Skeleton/SkeletonTable.razor]
+build_metadata.AdditionalFiles.TargetPath = UHJlc2VudFJcRGVzaWduXE1haW5cU2tlbGV0b25cU2tlbGV0b25UYWJsZS5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[X:/DEVELOPMENT/PROJECTS/NET/Undersoft/Universer/Undersoft.SDK/src/Undersoft.SDK.PresentR/PresentR/Design/Main/Skeleton/SkeletonTree.razor]
+build_metadata.AdditionalFiles.TargetPath = UHJlc2VudFJcRGVzaWduXE1haW5cU2tlbGV0b25cU2tlbGV0b25UcmVlLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[X:/DEVELOPMENT/PROJECTS/NET/Undersoft/Universer/Undersoft.SDK/src/Undersoft.SDK.PresentR/PresentR/Design/Main/Split/Split.razor]
+build_metadata.AdditionalFiles.TargetPath = UHJlc2VudFJcRGVzaWduXE1haW5cU3BsaXRcU3BsaXQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[X:/DEVELOPMENT/PROJECTS/NET/Undersoft/Universer/Undersoft.SDK/src/Undersoft.SDK.PresentR/PresentR/Design/Navigation/AnchorLink/AnchorLink.razor]
+build_metadata.AdditionalFiles.TargetPath = UHJlc2VudFJcRGVzaWduXE5hdmlnYXRpb25cQW5jaG9yTGlua1xBbmNob3JMaW5rLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[X:/DEVELOPMENT/PROJECTS/NET/Undersoft/Universer/Undersoft.SDK/src/Undersoft.SDK.PresentR/PresentR/Design/Navigation/Anchor/Anchor.razor]
+build_metadata.AdditionalFiles.TargetPath = UHJlc2VudFJcRGVzaWduXE5hdmlnYXRpb25cQW5jaG9yXEFuY2hvci5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[X:/DEVELOPMENT/PROJECTS/NET/Undersoft/Universer/Undersoft.SDK/src/Undersoft.SDK.PresentR/PresentR/Design/Navigation/Breadcrumb/Breadcrumb.razor]
+build_metadata.AdditionalFiles.TargetPath = UHJlc2VudFJcRGVzaWduXE5hdmlnYXRpb25cQnJlYWRjcnVtYlxCcmVhZGNydW1iLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[X:/DEVELOPMENT/PROJECTS/NET/Undersoft/Universer/Undersoft.SDK/src/Undersoft.SDK.PresentR/PresentR/Design/Navigation/Drawer/Drawer.razor]
+build_metadata.AdditionalFiles.TargetPath = UHJlc2VudFJcRGVzaWduXE5hdmlnYXRpb25cRHJhd2VyXERyYXdlci5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[X:/DEVELOPMENT/PROJECTS/NET/Undersoft/Universer/Undersoft.SDK/src/Undersoft.SDK.PresentR/PresentR/Design/Navigation/FullScreen/FullScreenButton.razor]
+build_metadata.AdditionalFiles.TargetPath = UHJlc2VudFJcRGVzaWduXE5hdmlnYXRpb25cRnVsbFNjcmVlblxGdWxsU2NyZWVuQnV0dG9uLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[X:/DEVELOPMENT/PROJECTS/NET/Undersoft/Universer/Undersoft.SDK/src/Undersoft.SDK.PresentR/PresentR/Design/Navigation/Gotop/GoTop.razor]
+build_metadata.AdditionalFiles.TargetPath = UHJlc2VudFJcRGVzaWduXE5hdmlnYXRpb25cR290b3BcR29Ub3AucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[X:/DEVELOPMENT/PROJECTS/NET/Undersoft/Universer/Undersoft.SDK/src/Undersoft.SDK.PresentR/PresentR/Design/Navigation/Menu/Menu.razor]
+build_metadata.AdditionalFiles.TargetPath = UHJlc2VudFJcRGVzaWduXE5hdmlnYXRpb25cTWVudVxNZW51LnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[X:/DEVELOPMENT/PROJECTS/NET/Undersoft/Universer/Undersoft.SDK/src/Undersoft.SDK.PresentR/PresentR/Design/Navigation/Menu/MenuLink.razor]
+build_metadata.AdditionalFiles.TargetPath = UHJlc2VudFJcRGVzaWduXE5hdmlnYXRpb25cTWVudVxNZW51TGluay5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[X:/DEVELOPMENT/PROJECTS/NET/Undersoft/Universer/Undersoft.SDK/src/Undersoft.SDK.PresentR/PresentR/Design/Navigation/Menu/SideMenu.razor]
+build_metadata.AdditionalFiles.TargetPath = UHJlc2VudFJcRGVzaWduXE5hdmlnYXRpb25cTWVudVxTaWRlTWVudS5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[X:/DEVELOPMENT/PROJECTS/NET/Undersoft/Universer/Undersoft.SDK/src/Undersoft.SDK.PresentR/PresentR/Design/Navigation/Menu/SubMenu.razor]
+build_metadata.AdditionalFiles.TargetPath = UHJlc2VudFJcRGVzaWduXE5hdmlnYXRpb25cTWVudVxTdWJNZW51LnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[X:/DEVELOPMENT/PROJECTS/NET/Undersoft/Universer/Undersoft.SDK/src/Undersoft.SDK.PresentR/PresentR/Design/Navigation/Menu/TopMenu.razor]
+build_metadata.AdditionalFiles.TargetPath = UHJlc2VudFJcRGVzaWduXE5hdmlnYXRpb25cTWVudVxUb3BNZW51LnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[X:/DEVELOPMENT/PROJECTS/NET/Undersoft/Universer/Undersoft.SDK/src/Undersoft.SDK.PresentR/PresentR/Design/Navigation/Nav/Nav.razor]
+build_metadata.AdditionalFiles.TargetPath = UHJlc2VudFJcRGVzaWduXE5hdmlnYXRpb25cTmF2XE5hdi5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[X:/DEVELOPMENT/PROJECTS/NET/Undersoft/Universer/Undersoft.SDK/src/Undersoft.SDK.PresentR/PresentR/Design/Navigation/RibbonTab/RibbonTab.razor]
+build_metadata.AdditionalFiles.TargetPath = UHJlc2VudFJcRGVzaWduXE5hdmlnYXRpb25cUmliYm9uVGFiXFJpYmJvblRhYi5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[X:/DEVELOPMENT/PROJECTS/NET/Undersoft/Universer/Undersoft.SDK/src/Undersoft.SDK.PresentR/PresentR/Design/Navigation/Step/Step.razor]
+build_metadata.AdditionalFiles.TargetPath = UHJlc2VudFJcRGVzaWduXE5hdmlnYXRpb25cU3RlcFxTdGVwLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[X:/DEVELOPMENT/PROJECTS/NET/Undersoft/Universer/Undersoft.SDK/src/Undersoft.SDK.PresentR/PresentR/Design/Navigation/Step/Steps.razor]
+build_metadata.AdditionalFiles.TargetPath = UHJlc2VudFJcRGVzaWduXE5hdmlnYXRpb25cU3RlcFxTdGVwcy5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[X:/DEVELOPMENT/PROJECTS/NET/Undersoft/Universer/Undersoft.SDK/src/Undersoft.SDK.PresentR/PresentR/Design/Navigation/Tab/Tab.razor]
+build_metadata.AdditionalFiles.TargetPath = UHJlc2VudFJcRGVzaWduXE5hdmlnYXRpb25cVGFiXFRhYi5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[X:/DEVELOPMENT/PROJECTS/NET/Undersoft/Universer/Undersoft.SDK/src/Undersoft.SDK.PresentR/PresentR/Design/Navigation/Tab/TabLink.razor]
+build_metadata.AdditionalFiles.TargetPath = UHJlc2VudFJcRGVzaWduXE5hdmlnYXRpb25cVGFiXFRhYkxpbmsucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[X:/DEVELOPMENT/PROJECTS/NET/Undersoft/Universer/Undersoft.SDK/src/Undersoft.SDK.PresentR/PresentR/Design/User/Avatar/Avatar.razor]
+build_metadata.AdditionalFiles.TargetPath = UHJlc2VudFJcRGVzaWduXFVzZXJcQXZhdGFyXEF2YXRhci5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[X:/DEVELOPMENT/PROJECTS/NET/Undersoft/Universer/Undersoft.SDK/src/Undersoft.SDK.PresentR/PresentR/Design/User/Captcha/Captcha.razor]
+build_metadata.AdditionalFiles.TargetPath = UHJlc2VudFJcRGVzaWduXFVzZXJcQ2FwdGNoYVxDYXB0Y2hhLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[X:/DEVELOPMENT/PROJECTS/NET/Undersoft/Universer/Undersoft.SDK/src/Undersoft.SDK.PresentR/PresentR/Design/User/Logout/Logout.razor]
+build_metadata.AdditionalFiles.TargetPath = UHJlc2VudFJcRGVzaWduXFVzZXJcTG9nb3V0XExvZ291dC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[X:/DEVELOPMENT/PROJECTS/NET/Undersoft/Universer/Undersoft.SDK/src/Undersoft.SDK.PresentR/PresentR/Design/User/Logout/LogoutLink.razor]
+build_metadata.AdditionalFiles.TargetPath = UHJlc2VudFJcRGVzaWduXFVzZXJcTG9nb3V0XExvZ291dExpbmsucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[X:/DEVELOPMENT/PROJECTS/NET/Undersoft/Universer/Undersoft.SDK/src/Undersoft.SDK.PresentR/PresentR/Design/Widgets/BarcodeReader/BarcodeReader.razor]
+build_metadata.AdditionalFiles.TargetPath = UHJlc2VudFJcRGVzaWduXFdpZGdldHNcQmFyY29kZVJlYWRlclxCYXJjb2RlUmVhZGVyLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[X:/DEVELOPMENT/PROJECTS/NET/Undersoft/Universer/Undersoft.SDK/src/Undersoft.SDK.PresentR/PresentR/Design/Widgets/Calendar/Calendar.razor]
+build_metadata.AdditionalFiles.TargetPath = UHJlc2VudFJcRGVzaWduXFdpZGdldHNcQ2FsZW5kYXJcQ2FsZW5kYXIucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[X:/DEVELOPMENT/PROJECTS/NET/Undersoft/Universer/Undersoft.SDK/src/Undersoft.SDK.PresentR/PresentR/Design/Widgets/Carousel/Carousel.razor]
+build_metadata.AdditionalFiles.TargetPath = UHJlc2VudFJcRGVzaWduXFdpZGdldHNcQ2Fyb3VzZWxcQ2Fyb3VzZWwucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[X:/DEVELOPMENT/PROJECTS/NET/Undersoft/Universer/Undersoft.SDK/src/Undersoft.SDK.PresentR/PresentR/Design/Widgets/FileIcon/FileIcon.razor]
+build_metadata.AdditionalFiles.TargetPath = UHJlc2VudFJcRGVzaWduXFdpZGdldHNcRmlsZUljb25cRmlsZUljb24ucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[X:/DEVELOPMENT/PROJECTS/NET/Undersoft/Universer/Undersoft.SDK/src/Undersoft.SDK.PresentR/PresentR/Design/Widgets/Handwritten/Handwritten.razor]
+build_metadata.AdditionalFiles.TargetPath = UHJlc2VudFJcRGVzaWduXFdpZGdldHNcSGFuZHdyaXR0ZW5cSGFuZHdyaXR0ZW4ucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[X:/DEVELOPMENT/PROJECTS/NET/Undersoft/Universer/Undersoft.SDK/src/Undersoft.SDK.PresentR/PresentR/Design/Widgets/ImagePreviewer/ImagePreviewer.razor]
+build_metadata.AdditionalFiles.TargetPath = UHJlc2VudFJcRGVzaWduXFdpZGdldHNcSW1hZ2VQcmV2aWV3ZXJcSW1hZ2VQcmV2aWV3ZXIucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[X:/DEVELOPMENT/PROJECTS/NET/Undersoft/Universer/Undersoft.SDK/src/Undersoft.SDK.PresentR/PresentR/Design/Widgets/ImageViewer/ImageViewer.razor]
+build_metadata.AdditionalFiles.TargetPath = UHJlc2VudFJcRGVzaWduXFdpZGdldHNcSW1hZ2VWaWV3ZXJcSW1hZ2VWaWV3ZXIucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[X:/DEVELOPMENT/PROJECTS/NET/Undersoft/Universer/Undersoft.SDK/src/Undersoft.SDK.PresentR/PresentR/Design/Widgets/Print/PrintButton.razor]
+build_metadata.AdditionalFiles.TargetPath = UHJlc2VudFJcRGVzaWduXFdpZGdldHNcUHJpbnRcUHJpbnRCdXR0b24ucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[X:/DEVELOPMENT/PROJECTS/NET/Undersoft/Universer/Undersoft.SDK/src/Undersoft.SDK.PresentR/PresentR/Design/Widgets/QRCode/QRCode.razor]
+build_metadata.AdditionalFiles.TargetPath = UHJlc2VudFJcRGVzaWduXFdpZGdldHNcUVJDb2RlXFFSQ29kZS5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[X:/DEVELOPMENT/PROJECTS/NET/Undersoft/Universer/Undersoft.SDK/src/Undersoft.SDK.PresentR/PresentR/Design/Widgets/Slider/Slider.razor]
+build_metadata.AdditionalFiles.TargetPath = UHJlc2VudFJcRGVzaWduXFdpZGdldHNcU2xpZGVyXFNsaWRlci5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[X:/DEVELOPMENT/PROJECTS/NET/Undersoft/Universer/Undersoft.SDK/src/Undersoft.SDK.PresentR/PresentR/Design/Widgets/Spinner/Spinner.razor]
+build_metadata.AdditionalFiles.TargetPath = UHJlc2VudFJcRGVzaWduXFdpZGdldHNcU3Bpbm5lclxTcGlubmVyLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[X:/DEVELOPMENT/PROJECTS/NET/Undersoft/Universer/Undersoft.SDK/src/Undersoft.SDK.PresentR/PresentR/Design/Widgets/Timeline/Timeline.razor]
+build_metadata.AdditionalFiles.TargetPath = UHJlc2VudFJcRGVzaWduXFdpZGdldHNcVGltZWxpbmVcVGltZWxpbmUucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[X:/DEVELOPMENT/PROJECTS/NET/Undersoft/Universer/Undersoft.SDK/src/Undersoft.SDK.PresentR/PresentR/Design/Widgets/Timer/Timer.razor]
+build_metadata.AdditionalFiles.TargetPath = UHJlc2VudFJcRGVzaWduXFdpZGdldHNcVGltZXJcVGltZXIucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[X:/DEVELOPMENT/PROJECTS/NET/Undersoft/Universer/Undersoft.SDK/src/Undersoft.SDK.PresentR/PresentR/Design/Widgets/Topology/Topology.razor]
+build_metadata.AdditionalFiles.TargetPath = UHJlc2VudFJcRGVzaWduXFdpZGdldHNcVG9wb2xvZ3lcVG9wb2xvZ3kucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[X:/DEVELOPMENT/PROJECTS/NET/Undersoft/Universer/Undersoft.SDK/src/Undersoft.SDK.PresentR/PresentR/_Imports.razor]
+build_metadata.AdditionalFiles.TargetPath = UHJlc2VudFJcX0ltcG9ydHMucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 

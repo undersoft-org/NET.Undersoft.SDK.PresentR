@@ -1,0 +1,7 @@
+﻿@namespace PresentR.Components
+@inherits PresentrModule
+@attribute [JSModuleAutoLoader]
+
+<a @attributes="@AdditionalAttributes" id="@Id" class="@ClassString" data-bb-animation="@AnimationString" data-bb-target="@GetTargetString" data-bb-container="@Container" data-bb-offset="@Offset" href="#">
+    @ChildContent
+</a>

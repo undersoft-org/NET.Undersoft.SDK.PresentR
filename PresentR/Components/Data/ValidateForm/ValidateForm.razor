@@ -1,0 +1,13 @@
+﻿@namespace PresentR.Components
+@inherits PresentrModule
+@attribute [JSModuleAutoLoader]
+
+@if (Model != null)
+{
+    <CascadingValue Value="this" IsFixed="true">
+        <EditForm Model="@Model" @attributes="@AdditionalAttributes" id="@Id" data-bb-dissubmit="@DisableAutoSubmitString" OnValidSubmit="@OnValidSubmitForm" OnInvalidSubmit="@OnInvalidSubmitForm">
+            <BootstrapBlazorDataAnnotationsValidator @ref="Validator" />
+            @ChildContent
+        </EditForm>
+    </CascadingValue>
+}

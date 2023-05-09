@@ -1,0 +1,256 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>Undersoft.SDK.PresentR</id>
+    <version>2.2.0</version>
+    <authors>Dariusz Hanc</authors>
+    <license type="expression">MIT</license>
+    <licenseUrl>https://licenses.nuget.org/MIT</licenseUrl>
+    <description>Package Description</description>
+    <repository url="https://github.com/undersoft-org/UltimatR" />
+    <dependencies>
+      <group targetFramework="net6.0">
+        <dependency id="Undersoft.SDK.RadicalR" version="2.1.2" exclude="Build,Analyzers" />
+        <dependency id="BuildBundlerMinifierPlus2022" version="5.2.2" exclude="Build,Analyzers" />
+        <dependency id="Microsoft.AspNetCore.Components.Authorization" version="6.0.0" exclude="Build,Analyzers" />
+        <dependency id="Microsoft.AspNetCore.Components.Web" version="6.0.0" exclude="Build,Analyzers" />
+        <dependency id="Microsoft.Extensions.Caching.Memory" version="6.0.0" exclude="Build,Analyzers" />
+        <dependency id="Microsoft.Extensions.Configuration.Json" version="6.0.0" exclude="Build,Analyzers" />
+        <dependency id="Microsoft.Extensions.Http" version="6.0.0" exclude="Build,Analyzers" />
+        <dependency id="Microsoft.Extensions.Localization" version="6.0.0" exclude="Build,Analyzers" />
+        <dependency id="Microsoft.Extensions.Options.ConfigurationExtensions" version="6.0.0" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+    <contentFiles>
+      <files include="any/net6.0/Properties/nlog.config" buildAction="Content" />
+      <files include="any/net6.0/PresentR/bundleconfig.json" buildAction="Content" />
+      <files include="any/net6.0/PresentR/Locales/de.json" buildAction="Content" />
+      <files include="any/net6.0/PresentR/Locales/en.json" buildAction="Content" />
+      <files include="any/net6.0/PresentR/Locales/es.json" buildAction="Content" />
+      <files include="any/net6.0/PresentR/Locales/pt.json" buildAction="Content" />
+      <files include="any/net6.0/PresentR/Locales/zh.json" buildAction="Content" />
+      <files include="any/net6.0/Properties/launchSettings.json" buildAction="Content" />
+    </contentFiles>
+  </metadata>
+  <files>
+    <file src="X:\DEVELOPMENT\PROJECTS\NET\Undersoft\Universer\Undersoft.SDK\src\Undersoft.SDK.PresentR\bin\Debug\net6.0\Undersoft.SDK.PresentR.dll" target="lib\net6.0\Undersoft.SDK.PresentR.dll" />
+    <file src="X:\DEVELOPMENT\PROJECTS\NET\Undersoft\Universer\Undersoft.SDK\src\Undersoft.SDK.PresentR\Properties\nlog.config" target="content\Properties\nlog.config" />
+    <file src="X:\DEVELOPMENT\PROJECTS\NET\Undersoft\Universer\Undersoft.SDK\src\Undersoft.SDK.PresentR\Properties\nlog.config" target="contentFiles\any\net6.0\Properties\nlog.config" />
+    <file src="X:\DEVELOPMENT\PROJECTS\NET\Undersoft\Universer\Undersoft.SDK\src\Undersoft.SDK.PresentR\PresentR\bundleconfig.json" target="content\PresentR\bundleconfig.json" />
+    <file src="X:\DEVELOPMENT\PROJECTS\NET\Undersoft\Universer\Undersoft.SDK\src\Undersoft.SDK.PresentR\PresentR\bundleconfig.json" target="contentFiles\any\net6.0\PresentR\bundleconfig.json" />
+    <file src="X:\DEVELOPMENT\PROJECTS\NET\Undersoft\Universer\Undersoft.SDK\src\Undersoft.SDK.PresentR\PresentR\Locales\de.json" target="content\PresentR\Locales\de.json" />
+    <file src="X:\DEVELOPMENT\PROJECTS\NET\Undersoft\Universer\Undersoft.SDK\src\Undersoft.SDK.PresentR\PresentR\Locales\de.json" target="contentFiles\any\net6.0\PresentR\Locales\de.json" />
+    <file src="X:\DEVELOPMENT\PROJECTS\NET\Undersoft\Universer\Undersoft.SDK\src\Undersoft.SDK.PresentR\PresentR\Locales\en.json" target="content\PresentR\Locales\en.json" />
+    <file src="X:\DEVELOPMENT\PROJECTS\NET\Undersoft\Universer\Undersoft.SDK\src\Undersoft.SDK.PresentR\PresentR\Locales\en.json" target="contentFiles\any\net6.0\PresentR\Locales\en.json" />
+    <file src="X:\DEVELOPMENT\PROJECTS\NET\Undersoft\Universer\Undersoft.SDK\src\Undersoft.SDK.PresentR\PresentR\Locales\es.json" target="content\PresentR\Locales\es.json" />
+    <file src="X:\DEVELOPMENT\PROJECTS\NET\Undersoft\Universer\Undersoft.SDK\src\Undersoft.SDK.PresentR\PresentR\Locales\es.json" target="contentFiles\any\net6.0\PresentR\Locales\es.json" />
+    <file src="X:\DEVELOPMENT\PROJECTS\NET\Undersoft\Universer\Undersoft.SDK\src\Undersoft.SDK.PresentR\PresentR\Locales\pt.json" target="content\PresentR\Locales\pt.json" />
+    <file src="X:\DEVELOPMENT\PROJECTS\NET\Undersoft\Universer\Undersoft.SDK\src\Undersoft.SDK.PresentR\PresentR\Locales\pt.json" target="contentFiles\any\net6.0\PresentR\Locales\pt.json" />
+    <file src="X:\DEVELOPMENT\PROJECTS\NET\Undersoft\Universer\Undersoft.SDK\src\Undersoft.SDK.PresentR\PresentR\Locales\zh.json" target="content\PresentR\Locales\zh.json" />
+    <file src="X:\DEVELOPMENT\PROJECTS\NET\Undersoft\Universer\Undersoft.SDK\src\Undersoft.SDK.PresentR\PresentR\Locales\zh.json" target="contentFiles\any\net6.0\PresentR\Locales\zh.json" />
+    <file src="X:\DEVELOPMENT\PROJECTS\NET\Undersoft\Universer\Undersoft.SDK\src\Undersoft.SDK.PresentR\Properties\launchSettings.json" target="content\Properties\launchSettings.json" />
+    <file src="X:\DEVELOPMENT\PROJECTS\NET\Undersoft\Universer\Undersoft.SDK\src\Undersoft.SDK.PresentR\Properties\launchSettings.json" target="contentFiles\any\net6.0\Properties\launchSettings.json" />
+    <file src="X:\DEVELOPMENT\PROJECTS\NET\Undersoft\Universer\Undersoft.SDK\src\Undersoft.SDK.PresentR\PresentR\Design\Chart\Chart.razor.js" target="staticwebassets\PresentR\Design\Chart\Chart.razor.js" />
+    <file src="X:\DEVELOPMENT\PROJECTS\NET\Undersoft\Universer\Undersoft.SDK\src\Undersoft.SDK.PresentR\PresentR\Design\Controls\CountUp\CountUp.razor.js" target="staticwebassets\PresentR\Design\Controls\CountUp\CountUp.razor.js" />
+    <file src="X:\DEVELOPMENT\PROJECTS\NET\Undersoft\Universer\Undersoft.SDK\src\Undersoft.SDK.PresentR\PresentR\Design\Controls\DateTimePicker\TimePickerCell.razor.js" target="staticwebassets\PresentR\Design\Controls\DateTimePicker\TimePickerCell.razor.js" />
+    <file src="X:\DEVELOPMENT\PROJECTS\NET\Undersoft\Universer\Undersoft.SDK\src\Undersoft.SDK.PresentR\PresentR\Design\Data\Markdown\Markdown.razor.js" target="staticwebassets\PresentR\Design\Data\Markdown\Markdown.razor.js" />
+    <file src="X:\DEVELOPMENT\PROJECTS\NET\Undersoft\Universer\Undersoft.SDK\src\Undersoft.SDK.PresentR\PresentR\Design\Data\ValidateForm\ValidateForm.razor.js" target="staticwebassets\PresentR\Design\Data\ValidateForm\ValidateForm.razor.js" />
+    <file src="X:\DEVELOPMENT\PROJECTS\NET\Undersoft\Universer\Undersoft.SDK\src\Undersoft.SDK.PresentR\PresentR\Design\Event\Dialog\EditDialog.razor.js" target="staticwebassets\PresentR\Design\Event\Dialog\EditDialog.razor.js" />
+    <file src="X:\DEVELOPMENT\PROJECTS\NET\Undersoft\Universer\Undersoft.SDK\src\Undersoft.SDK.PresentR\PresentR\Design\Event\Dialog\IconDialog.razor.js" target="staticwebassets\PresentR\Design\Event\Dialog\IconDialog.razor.js" />
+    <file src="X:\DEVELOPMENT\PROJECTS\NET\Undersoft\Universer\Undersoft.SDK\src\Undersoft.SDK.PresentR\PresentR\Design\Event\Modal\Modal.razor.js" target="staticwebassets\PresentR\Design\Event\Modal\Modal.razor.js" />
+    <file src="X:\DEVELOPMENT\PROJECTS\NET\Undersoft\Universer\Undersoft.SDK\src\Undersoft.SDK.PresentR\PresentR\Design\Event\Toast\Toast.razor.js" target="staticwebassets\PresentR\Design\Event\Toast\Toast.razor.js" />
+    <file src="X:\DEVELOPMENT\PROJECTS\NET\Undersoft\Universer\Undersoft.SDK\src\Undersoft.SDK.PresentR\PresentR\Design\Icons\FAIconList.razor.js" target="staticwebassets\PresentR\Design\Icons\FAIconList.razor.js" />
+    <file src="X:\DEVELOPMENT\PROJECTS\NET\Undersoft\Universer\Undersoft.SDK\src\Undersoft.SDK.PresentR\PresentR\Design\Main\Console\Console.razor.js" target="staticwebassets\PresentR\Design\Main\Console\Console.razor.js" />
+    <file src="X:\DEVELOPMENT\PROJECTS\NET\Undersoft\Universer\Undersoft.SDK\src\Undersoft.SDK.PresentR\PresentR\Design\Navigation\AnchorLink\AnchorLink.razor.js" target="staticwebassets\PresentR\Design\Navigation\AnchorLink\AnchorLink.razor.js" />
+    <file src="X:\DEVELOPMENT\PROJECTS\NET\Undersoft\Universer\Undersoft.SDK\src\Undersoft.SDK.PresentR\PresentR\Design\Navigation\Anchor\Anchor.razor.js" target="staticwebassets\PresentR\Design\Navigation\Anchor\Anchor.razor.js" />
+    <file src="X:\DEVELOPMENT\PROJECTS\NET\Undersoft\Universer\Undersoft.SDK\src\Undersoft.SDK.PresentR\PresentR\Design\Navigation\Drawer\Drawer.razor.js" target="staticwebassets\PresentR\Design\Navigation\Drawer\Drawer.razor.js" />
+    <file src="X:\DEVELOPMENT\PROJECTS\NET\Undersoft\Universer\Undersoft.SDK\src\Undersoft.SDK.PresentR\PresentR\Design\Navigation\Menu\Menu.razor.js" target="staticwebassets\PresentR\Design\Navigation\Menu\Menu.razor.js" />
+    <file src="X:\DEVELOPMENT\PROJECTS\NET\Undersoft\Universer\Undersoft.SDK\src\Undersoft.SDK.PresentR\PresentR\Design\Navigation\RibbonTab\RibbonTab.razor.js" target="staticwebassets\PresentR\Design\Navigation\RibbonTab\RibbonTab.razor.js" />
+    <file src="X:\DEVELOPMENT\PROJECTS\NET\Undersoft\Universer\Undersoft.SDK\src\Undersoft.SDK.PresentR\PresentR\Design\Widgets\BarcodeReader\BarcodeReader.razor.js" target="staticwebassets\PresentR\Design\Widgets\BarcodeReader\BarcodeReader.razor.js" />
+    <file src="X:\DEVELOPMENT\PROJECTS\NET\Undersoft\Universer\Undersoft.SDK\src\Undersoft.SDK.PresentR\PresentR\Design\Widgets\Carousel\Carousel.razor.js" target="staticwebassets\PresentR\Design\Widgets\Carousel\Carousel.razor.js" />
+    <file src="X:\DEVELOPMENT\PROJECTS\NET\Undersoft\Universer\Undersoft.SDK\src\Undersoft.SDK.PresentR\PresentR\Design\Widgets\ImagePreviewer\ImagePreviewer.razor.js" target="staticwebassets\PresentR\Design\Widgets\ImagePreviewer\ImagePreviewer.razor.js" />
+    <file src="X:\DEVELOPMENT\PROJECTS\NET\Undersoft\Universer\Undersoft.SDK\src\Undersoft.SDK.PresentR\PresentR\Design\Widgets\ImageViewer\ImageViewer.razor.js" target="staticwebassets\PresentR\Design\Widgets\ImageViewer\ImageViewer.razor.js" />
+    <file src="X:\DEVELOPMENT\PROJECTS\NET\Undersoft\Universer\Undersoft.SDK\src\Undersoft.SDK.PresentR\PresentR\Design\Widgets\QRCode\QRCode.razor.js" target="staticwebassets\PresentR\Design\Widgets\QRCode\QRCode.razor.js" />
+    <file src="X:\DEVELOPMENT\PROJECTS\NET\Undersoft\Universer\Undersoft.SDK\src\Undersoft.SDK.PresentR\PresentR\Design\Widgets\Topology\Topology.razor.js" target="staticwebassets\PresentR\Design\Widgets\Topology\Topology.razor.js" />
+    <file src="X:\DEVELOPMENT\PROJECTS\NET\Undersoft\Universer\Undersoft.SDK\src\Undersoft.SDK.PresentR\wwwroot\app.js" target="staticwebassets\app.js" />
+    <file src="X:\DEVELOPMENT\PROJECTS\NET\Undersoft\Universer\Undersoft.SDK\src\Undersoft.SDK.PresentR\wwwroot\bundle\bootstrap.blazor.js" target="staticwebassets\bundle\bootstrap.blazor.js" />
+    <file src="X:\DEVELOPMENT\PROJECTS\NET\Undersoft\Universer\Undersoft.SDK\src\Undersoft.SDK.PresentR\wwwroot\bundle\bootstrap.blazor.min.js" target="staticwebassets\bundle\bootstrap.blazor.min.js" />
+    <file src="X:\DEVELOPMENT\PROJECTS\NET\Undersoft\Universer\Undersoft.SDK\src\Undersoft.SDK.PresentR\wwwroot\core\bootstrap\css\bootstrap.css" target="staticwebassets\core\bootstrap\css\bootstrap.css" />
+    <file src="X:\DEVELOPMENT\PROJECTS\NET\Undersoft\Universer\Undersoft.SDK\src\Undersoft.SDK.PresentR\wwwroot\core\bootstrap\css\bootstrap.min.css" target="staticwebassets\core\bootstrap\css\bootstrap.min.css" />
+    <file src="X:\DEVELOPMENT\PROJECTS\NET\Undersoft\Universer\Undersoft.SDK\src\Undersoft.SDK.PresentR\wwwroot\core\bootstrap\js\bootstrap.bundle.js" target="staticwebassets\core\bootstrap\js\bootstrap.bundle.js" />
+    <file src="X:\DEVELOPMENT\PROJECTS\NET\Undersoft\Universer\Undersoft.SDK\src\Undersoft.SDK.PresentR\wwwroot\core\bootstrap\js\bootstrap.bundle.min.js" target="staticwebassets\core\bootstrap\js\bootstrap.bundle.min.js" />
+    <file src="X:\DEVELOPMENT\PROJECTS\NET\Undersoft\Universer\Undersoft.SDK\src\Undersoft.SDK.PresentR\wwwroot\core\jquery\jquery-3.5.1.js" target="staticwebassets\core\jquery\jquery-3.5.1.js" />
+    <file src="X:\DEVELOPMENT\PROJECTS\NET\Undersoft\Universer\Undersoft.SDK\src\Undersoft.SDK.PresentR\wwwroot\core\jquery\jquery-3.5.1.min.js" target="staticwebassets\core\jquery\jquery-3.5.1.min.js" />
+    <file src="X:\DEVELOPMENT\PROJECTS\NET\Undersoft\Universer\Undersoft.SDK\src\Undersoft.SDK.PresentR\wwwroot\core\jquery\jquery-3.5.1.min.map" target="staticwebassets\core\jquery\jquery-3.5.1.min.map" />
+    <file src="X:\DEVELOPMENT\PROJECTS\NET\Undersoft\Universer\Undersoft.SDK\src\Undersoft.SDK.PresentR\wwwroot\css\bootstrap.blazor.bundle.min.css" target="staticwebassets\css\bootstrap.blazor.bundle.min.css" />
+    <file src="X:\DEVELOPMENT\PROJECTS\NET\Undersoft\Universer\Undersoft.SDK\src\Undersoft.SDK.PresentR\wwwroot\css\font-awesome.min.css" target="staticwebassets\css\font-awesome.min.css" />
+    <file src="X:\DEVELOPMENT\PROJECTS\NET\Undersoft\Universer\Undersoft.SDK\src\Undersoft.SDK.PresentR\wwwroot\css\motronic.min.css" target="staticwebassets\css\motronic.min.css" />
+    <file src="X:\DEVELOPMENT\PROJECTS\NET\Undersoft\Universer\Undersoft.SDK\src\Undersoft.SDK.PresentR\wwwroot\fa\all.css" target="staticwebassets\fa\all.css" />
+    <file src="X:\DEVELOPMENT\PROJECTS\NET\Undersoft\Universer\Undersoft.SDK\src\Undersoft.SDK.PresentR\wwwroot\fa\all.min.css" target="staticwebassets\fa\all.min.css" />
+    <file src="X:\DEVELOPMENT\PROJECTS\NET\Undersoft\Universer\Undersoft.SDK\src\Undersoft.SDK.PresentR\wwwroot\js\bootstrap.blazor.bundle.js" target="staticwebassets\js\bootstrap.blazor.bundle.js" />
+    <file src="X:\DEVELOPMENT\PROJECTS\NET\Undersoft\Universer\Undersoft.SDK\src\Undersoft.SDK.PresentR\wwwroot\js\bootstrap.blazor.bundle.min.js" target="staticwebassets\js\bootstrap.blazor.bundle.min.js" />
+    <file src="X:\DEVELOPMENT\PROJECTS\NET\Undersoft\Universer\Undersoft.SDK\src\Undersoft.SDK.PresentR\wwwroot\js\chart.js" target="staticwebassets\js\chart.js" />
+    <file src="X:\DEVELOPMENT\PROJECTS\NET\Undersoft\Universer\Undersoft.SDK\src\Undersoft.SDK.PresentR\wwwroot\js\microsoft.cognitiveservices.speech.sdk.bundle.js" target="staticwebassets\js\microsoft.cognitiveservices.speech.sdk.bundle.js" />
+    <file src="X:\DEVELOPMENT\PROJECTS\NET\Undersoft\Universer\Undersoft.SDK\src\Undersoft.SDK.PresentR\wwwroot\js\recognizer.js" target="staticwebassets\js\recognizer.js" />
+    <file src="X:\DEVELOPMENT\PROJECTS\NET\Undersoft\Universer\Undersoft.SDK\src\Undersoft.SDK.PresentR\wwwroot\js\recorder.wav.min.js" target="staticwebassets\js\recorder.wav.min.js" />
+    <file src="X:\DEVELOPMENT\PROJECTS\NET\Undersoft\Universer\Undersoft.SDK\src\Undersoft.SDK.PresentR\wwwroot\js\speech.js" target="staticwebassets\js\speech.js" />
+    <file src="X:\DEVELOPMENT\PROJECTS\NET\Undersoft\Universer\Undersoft.SDK\src\Undersoft.SDK.PresentR\wwwroot\js\synthesizer.js" target="staticwebassets\js\synthesizer.js" />
+    <file src="X:\DEVELOPMENT\PROJECTS\NET\Undersoft\Universer\Undersoft.SDK\src\Undersoft.SDK.PresentR\wwwroot\lang\ar.js" target="staticwebassets\lang\ar.js" />
+    <file src="X:\DEVELOPMENT\PROJECTS\NET\Undersoft\Universer\Undersoft.SDK\src\Undersoft.SDK.PresentR\wwwroot\lang\ar.json" target="staticwebassets\lang\ar.json" />
+    <file src="X:\DEVELOPMENT\PROJECTS\NET\Undersoft\Universer\Undersoft.SDK\src\Undersoft.SDK.PresentR\wwwroot\lang\ba.js" target="staticwebassets\lang\ba.js" />
+    <file src="X:\DEVELOPMENT\PROJECTS\NET\Undersoft\Universer\Undersoft.SDK\src\Undersoft.SDK.PresentR\wwwroot\lang\ba.json" target="staticwebassets\lang\ba.json" />
+    <file src="X:\DEVELOPMENT\PROJECTS\NET\Undersoft\Universer\Undersoft.SDK\src\Undersoft.SDK.PresentR\wwwroot\lang\bg.js" target="staticwebassets\lang\bg.js" />
+    <file src="X:\DEVELOPMENT\PROJECTS\NET\Undersoft\Universer\Undersoft.SDK\src\Undersoft.SDK.PresentR\wwwroot\lang\bg.json" target="staticwebassets\lang\bg.json" />
+    <file src="X:\DEVELOPMENT\PROJECTS\NET\Undersoft\Universer\Undersoft.SDK\src\Undersoft.SDK.PresentR\wwwroot\lang\bn.js" target="staticwebassets\lang\bn.js" />
+    <file src="X:\DEVELOPMENT\PROJECTS\NET\Undersoft\Universer\Undersoft.SDK\src\Undersoft.SDK.PresentR\wwwroot\lang\bn.json" target="staticwebassets\lang\bn.json" />
+    <file src="X:\DEVELOPMENT\PROJECTS\NET\Undersoft\Universer\Undersoft.SDK\src\Undersoft.SDK.PresentR\wwwroot\lang\ca.js" target="staticwebassets\lang\ca.js" />
+    <file src="X:\DEVELOPMENT\PROJECTS\NET\Undersoft\Universer\Undersoft.SDK\src\Undersoft.SDK.PresentR\wwwroot\lang\ca.json" target="staticwebassets\lang\ca.json" />
+    <file src="X:\DEVELOPMENT\PROJECTS\NET\Undersoft\Universer\Undersoft.SDK\src\Undersoft.SDK.PresentR\wwwroot\lang\cs.js" target="staticwebassets\lang\cs.js" />
+    <file src="X:\DEVELOPMENT\PROJECTS\NET\Undersoft\Universer\Undersoft.SDK\src\Undersoft.SDK.PresentR\wwwroot\lang\cs.json" target="staticwebassets\lang\cs.json" />
+    <file src="X:\DEVELOPMENT\PROJECTS\NET\Undersoft\Universer\Undersoft.SDK\src\Undersoft.SDK.PresentR\wwwroot\lang\cy.js" target="staticwebassets\lang\cy.js" />
+    <file src="X:\DEVELOPMENT\PROJECTS\NET\Undersoft\Universer\Undersoft.SDK\src\Undersoft.SDK.PresentR\wwwroot\lang\cy.json" target="staticwebassets\lang\cy.json" />
+    <file src="X:\DEVELOPMENT\PROJECTS\NET\Undersoft\Universer\Undersoft.SDK\src\Undersoft.SDK.PresentR\wwwroot\lang\da.js" target="staticwebassets\lang\da.js" />
+    <file src="X:\DEVELOPMENT\PROJECTS\NET\Undersoft\Universer\Undersoft.SDK\src\Undersoft.SDK.PresentR\wwwroot\lang\da.json" target="staticwebassets\lang\da.json" />
+    <file src="X:\DEVELOPMENT\PROJECTS\NET\Undersoft\Universer\Undersoft.SDK\src\Undersoft.SDK.PresentR\wwwroot\lang\de.js" target="staticwebassets\lang\de.js" />
+    <file src="X:\DEVELOPMENT\PROJECTS\NET\Undersoft\Universer\Undersoft.SDK\src\Undersoft.SDK.PresentR\wwwroot\lang\de.json" target="staticwebassets\lang\de.json" />
+    <file src="X:\DEVELOPMENT\PROJECTS\NET\Undersoft\Universer\Undersoft.SDK\src\Undersoft.SDK.PresentR\wwwroot\lang\el.js" target="staticwebassets\lang\el.js" />
+    <file src="X:\DEVELOPMENT\PROJECTS\NET\Undersoft\Universer\Undersoft.SDK\src\Undersoft.SDK.PresentR\wwwroot\lang\el.json" target="staticwebassets\lang\el.json" />
+    <file src="X:\DEVELOPMENT\PROJECTS\NET\Undersoft\Universer\Undersoft.SDK\src\Undersoft.SDK.PresentR\wwwroot\lang\en.js" target="staticwebassets\lang\en.js" />
+    <file src="X:\DEVELOPMENT\PROJECTS\NET\Undersoft\Universer\Undersoft.SDK\src\Undersoft.SDK.PresentR\wwwroot\lang\en.json" target="staticwebassets\lang\en.json" />
+    <file src="X:\DEVELOPMENT\PROJECTS\NET\Undersoft\Universer\Undersoft.SDK\src\Undersoft.SDK.PresentR\wwwroot\lang\es.js" target="staticwebassets\lang\es.js" />
+    <file src="X:\DEVELOPMENT\PROJECTS\NET\Undersoft\Universer\Undersoft.SDK\src\Undersoft.SDK.PresentR\wwwroot\lang\es.json" target="staticwebassets\lang\es.json" />
+    <file src="X:\DEVELOPMENT\PROJECTS\NET\Undersoft\Universer\Undersoft.SDK\src\Undersoft.SDK.PresentR\wwwroot\lang\et.js" target="staticwebassets\lang\et.js" />
+    <file src="X:\DEVELOPMENT\PROJECTS\NET\Undersoft\Universer\Undersoft.SDK\src\Undersoft.SDK.PresentR\wwwroot\lang\et.json" target="staticwebassets\lang\et.json" />
+    <file src="X:\DEVELOPMENT\PROJECTS\NET\Undersoft\Universer\Undersoft.SDK\src\Undersoft.SDK.PresentR\wwwroot\lang\eu.js" target="staticwebassets\lang\eu.js" />
+    <file src="X:\DEVELOPMENT\PROJECTS\NET\Undersoft\Universer\Undersoft.SDK\src\Undersoft.SDK.PresentR\wwwroot\lang\eu.json" target="staticwebassets\lang\eu.json" />
+    <file src="X:\DEVELOPMENT\PROJECTS\NET\Undersoft\Universer\Undersoft.SDK\src\Undersoft.SDK.PresentR\wwwroot\lang\fa.js" target="staticwebassets\lang\fa.js" />
+    <file src="X:\DEVELOPMENT\PROJECTS\NET\Undersoft\Universer\Undersoft.SDK\src\Undersoft.SDK.PresentR\wwwroot\lang\fa.json" target="staticwebassets\lang\fa.json" />
+    <file src="X:\DEVELOPMENT\PROJECTS\NET\Undersoft\Universer\Undersoft.SDK\src\Undersoft.SDK.PresentR\wwwroot\lang\fi.js" target="staticwebassets\lang\fi.js" />
+    <file src="X:\DEVELOPMENT\PROJECTS\NET\Undersoft\Universer\Undersoft.SDK\src\Undersoft.SDK.PresentR\wwwroot\lang\fi.json" target="staticwebassets\lang\fi.json" />
+    <file src="X:\DEVELOPMENT\PROJECTS\NET\Undersoft\Universer\Undersoft.SDK\src\Undersoft.SDK.PresentR\wwwroot\lang\fr.js" target="staticwebassets\lang\fr.js" />
+    <file src="X:\DEVELOPMENT\PROJECTS\NET\Undersoft\Universer\Undersoft.SDK\src\Undersoft.SDK.PresentR\wwwroot\lang\fr.json" target="staticwebassets\lang\fr.json" />
+    <file src="X:\DEVELOPMENT\PROJECTS\NET\Undersoft\Universer\Undersoft.SDK\src\Undersoft.SDK.PresentR\wwwroot\lang\gd.js" target="staticwebassets\lang\gd.js" />
+    <file src="X:\DEVELOPMENT\PROJECTS\NET\Undersoft\Universer\Undersoft.SDK\src\Undersoft.SDK.PresentR\wwwroot\lang\gd.json" target="staticwebassets\lang\gd.json" />
+    <file src="X:\DEVELOPMENT\PROJECTS\NET\Undersoft\Universer\Undersoft.SDK\src\Undersoft.SDK.PresentR\wwwroot\lang\gl.js" target="staticwebassets\lang\gl.js" />
+    <file src="X:\DEVELOPMENT\PROJECTS\NET\Undersoft\Universer\Undersoft.SDK\src\Undersoft.SDK.PresentR\wwwroot\lang\gl.json" target="staticwebassets\lang\gl.json" />
+    <file src="X:\DEVELOPMENT\PROJECTS\NET\Undersoft\Universer\Undersoft.SDK\src\Undersoft.SDK.PresentR\wwwroot\lang\he.js" target="staticwebassets\lang\he.js" />
+    <file src="X:\DEVELOPMENT\PROJECTS\NET\Undersoft\Universer\Undersoft.SDK\src\Undersoft.SDK.PresentR\wwwroot\lang\he.json" target="staticwebassets\lang\he.json" />
+    <file src="X:\DEVELOPMENT\PROJECTS\NET\Undersoft\Universer\Undersoft.SDK\src\Undersoft.SDK.PresentR\wwwroot\lang\hi.js" target="staticwebassets\lang\hi.js" />
+    <file src="X:\DEVELOPMENT\PROJECTS\NET\Undersoft\Universer\Undersoft.SDK\src\Undersoft.SDK.PresentR\wwwroot\lang\hi.json" target="staticwebassets\lang\hi.json" />
+    <file src="X:\DEVELOPMENT\PROJECTS\NET\Undersoft\Universer\Undersoft.SDK\src\Undersoft.SDK.PresentR\wwwroot\lang\hr.js" target="staticwebassets\lang\hr.js" />
+    <file src="X:\DEVELOPMENT\PROJECTS\NET\Undersoft\Universer\Undersoft.SDK\src\Undersoft.SDK.PresentR\wwwroot\lang\hr.json" target="staticwebassets\lang\hr.json" />
+    <file src="X:\DEVELOPMENT\PROJECTS\NET\Undersoft\Universer\Undersoft.SDK\src\Undersoft.SDK.PresentR\wwwroot\lang\hu.js" target="staticwebassets\lang\hu.js" />
+    <file src="X:\DEVELOPMENT\PROJECTS\NET\Undersoft\Universer\Undersoft.SDK\src\Undersoft.SDK.PresentR\wwwroot\lang\hu.json" target="staticwebassets\lang\hu.json" />
+    <file src="X:\DEVELOPMENT\PROJECTS\NET\Undersoft\Universer\Undersoft.SDK\src\Undersoft.SDK.PresentR\wwwroot\lang\it.js" target="staticwebassets\lang\it.js" />
+    <file src="X:\DEVELOPMENT\PROJECTS\NET\Undersoft\Universer\Undersoft.SDK\src\Undersoft.SDK.PresentR\wwwroot\lang\it.json" target="staticwebassets\lang\it.json" />
+    <file src="X:\DEVELOPMENT\PROJECTS\NET\Undersoft\Universer\Undersoft.SDK\src\Undersoft.SDK.PresentR\wwwroot\lang\ja.js" target="staticwebassets\lang\ja.js" />
+    <file src="X:\DEVELOPMENT\PROJECTS\NET\Undersoft\Universer\Undersoft.SDK\src\Undersoft.SDK.PresentR\wwwroot\lang\ja.json" target="staticwebassets\lang\ja.json" />
+    <file src="X:\DEVELOPMENT\PROJECTS\NET\Undersoft\Universer\Undersoft.SDK\src\Undersoft.SDK.PresentR\wwwroot\lang\ko.js" target="staticwebassets\lang\ko.js" />
+    <file src="X:\DEVELOPMENT\PROJECTS\NET\Undersoft\Universer\Undersoft.SDK\src\Undersoft.SDK.PresentR\wwwroot\lang\ko.json" target="staticwebassets\lang\ko.json" />
+    <file src="X:\DEVELOPMENT\PROJECTS\NET\Undersoft\Universer\Undersoft.SDK\src\Undersoft.SDK.PresentR\wwwroot\lang\lv.js" target="staticwebassets\lang\lv.js" />
+    <file src="X:\DEVELOPMENT\PROJECTS\NET\Undersoft\Universer\Undersoft.SDK\src\Undersoft.SDK.PresentR\wwwroot\lang\lv.json" target="staticwebassets\lang\lv.json" />
+    <file src="X:\DEVELOPMENT\PROJECTS\NET\Undersoft\Universer\Undersoft.SDK\src\Undersoft.SDK.PresentR\wwwroot\lang\nb.js" target="staticwebassets\lang\nb.js" />
+    <file src="X:\DEVELOPMENT\PROJECTS\NET\Undersoft\Universer\Undersoft.SDK\src\Undersoft.SDK.PresentR\wwwroot\lang\nb.json" target="staticwebassets\lang\nb.json" />
+    <file src="X:\DEVELOPMENT\PROJECTS\NET\Undersoft\Universer\Undersoft.SDK\src\Undersoft.SDK.PresentR\wwwroot\lang\nl.js" target="staticwebassets\lang\nl.js" />
+    <file src="X:\DEVELOPMENT\PROJECTS\NET\Undersoft\Universer\Undersoft.SDK\src\Undersoft.SDK.PresentR\wwwroot\lang\nl.json" target="staticwebassets\lang\nl.json" />
+    <file src="X:\DEVELOPMENT\PROJECTS\NET\Undersoft\Universer\Undersoft.SDK\src\Undersoft.SDK.PresentR\wwwroot\lang\nn.js" target="staticwebassets\lang\nn.js" />
+    <file src="X:\DEVELOPMENT\PROJECTS\NET\Undersoft\Universer\Undersoft.SDK\src\Undersoft.SDK.PresentR\wwwroot\lang\nn.json" target="staticwebassets\lang\nn.json" />
+    <file src="X:\DEVELOPMENT\PROJECTS\NET\Undersoft\Universer\Undersoft.SDK\src\Undersoft.SDK.PresentR\wwwroot\lang\oc.js" target="staticwebassets\lang\oc.js" />
+    <file src="X:\DEVELOPMENT\PROJECTS\NET\Undersoft\Universer\Undersoft.SDK\src\Undersoft.SDK.PresentR\wwwroot\lang\oc.json" target="staticwebassets\lang\oc.json" />
+    <file src="X:\DEVELOPMENT\PROJECTS\NET\Undersoft\Universer\Undersoft.SDK\src\Undersoft.SDK.PresentR\wwwroot\lang\pl.js" target="staticwebassets\lang\pl.js" />
+    <file src="X:\DEVELOPMENT\PROJECTS\NET\Undersoft\Universer\Undersoft.SDK\src\Undersoft.SDK.PresentR\wwwroot\lang\pl.json" target="staticwebassets\lang\pl.json" />
+    <file src="X:\DEVELOPMENT\PROJECTS\NET\Undersoft\Universer\Undersoft.SDK\src\Undersoft.SDK.PresentR\wwwroot\lang\pt-BR.js" target="staticwebassets\lang\pt-BR.js" />
+    <file src="X:\DEVELOPMENT\PROJECTS\NET\Undersoft\Universer\Undersoft.SDK\src\Undersoft.SDK.PresentR\wwwroot\lang\pt-BR.json" target="staticwebassets\lang\pt-BR.json" />
+    <file src="X:\DEVELOPMENT\PROJECTS\NET\Undersoft\Universer\Undersoft.SDK\src\Undersoft.SDK.PresentR\wwwroot\lang\pt-PT.js" target="staticwebassets\lang\pt-PT.js" />
+    <file src="X:\DEVELOPMENT\PROJECTS\NET\Undersoft\Universer\Undersoft.SDK\src\Undersoft.SDK.PresentR\wwwroot\lang\pt-PT.json" target="staticwebassets\lang\pt-PT.json" />
+    <file src="X:\DEVELOPMENT\PROJECTS\NET\Undersoft\Universer\Undersoft.SDK\src\Undersoft.SDK.PresentR\wwwroot\lang\ro.js" target="staticwebassets\lang\ro.js" />
+    <file src="X:\DEVELOPMENT\PROJECTS\NET\Undersoft\Universer\Undersoft.SDK\src\Undersoft.SDK.PresentR\wwwroot\lang\ro.json" target="staticwebassets\lang\ro.json" />
+    <file src="X:\DEVELOPMENT\PROJECTS\NET\Undersoft\Universer\Undersoft.SDK\src\Undersoft.SDK.PresentR\wwwroot\lang\ru.js" target="staticwebassets\lang\ru.js" />
+    <file src="X:\DEVELOPMENT\PROJECTS\NET\Undersoft\Universer\Undersoft.SDK\src\Undersoft.SDK.PresentR\wwwroot\lang\ru.json" target="staticwebassets\lang\ru.json" />
+    <file src="X:\DEVELOPMENT\PROJECTS\NET\Undersoft\Universer\Undersoft.SDK\src\Undersoft.SDK.PresentR\wwwroot\lang\sk.js" target="staticwebassets\lang\sk.js" />
+    <file src="X:\DEVELOPMENT\PROJECTS\NET\Undersoft\Universer\Undersoft.SDK\src\Undersoft.SDK.PresentR\wwwroot\lang\sk.json" target="staticwebassets\lang\sk.json" />
+    <file src="X:\DEVELOPMENT\PROJECTS\NET\Undersoft\Universer\Undersoft.SDK\src\Undersoft.SDK.PresentR\wwwroot\lang\sl.js" target="staticwebassets\lang\sl.js" />
+    <file src="X:\DEVELOPMENT\PROJECTS\NET\Undersoft\Universer\Undersoft.SDK\src\Undersoft.SDK.PresentR\wwwroot\lang\sl.json" target="staticwebassets\lang\sl.json" />
+    <file src="X:\DEVELOPMENT\PROJECTS\NET\Undersoft\Universer\Undersoft.SDK\src\Undersoft.SDK.PresentR\wwwroot\lang\sr.js" target="staticwebassets\lang\sr.js" />
+    <file src="X:\DEVELOPMENT\PROJECTS\NET\Undersoft\Universer\Undersoft.SDK\src\Undersoft.SDK.PresentR\wwwroot\lang\sr.json" target="staticwebassets\lang\sr.json" />
+    <file src="X:\DEVELOPMENT\PROJECTS\NET\Undersoft\Universer\Undersoft.SDK\src\Undersoft.SDK.PresentR\wwwroot\lang\sv.js" target="staticwebassets\lang\sv.js" />
+    <file src="X:\DEVELOPMENT\PROJECTS\NET\Undersoft\Universer\Undersoft.SDK\src\Undersoft.SDK.PresentR\wwwroot\lang\sv.json" target="staticwebassets\lang\sv.json" />
+    <file src="X:\DEVELOPMENT\PROJECTS\NET\Undersoft\Universer\Undersoft.SDK\src\Undersoft.SDK.PresentR\wwwroot\lang\te.js" target="staticwebassets\lang\te.js" />
+    <file src="X:\DEVELOPMENT\PROJECTS\NET\Undersoft\Universer\Undersoft.SDK\src\Undersoft.SDK.PresentR\wwwroot\lang\te.json" target="staticwebassets\lang\te.json" />
+    <file src="X:\DEVELOPMENT\PROJECTS\NET\Undersoft\Universer\Undersoft.SDK\src\Undersoft.SDK.PresentR\wwwroot\lang\th.js" target="staticwebassets\lang\th.js" />
+    <file src="X:\DEVELOPMENT\PROJECTS\NET\Undersoft\Universer\Undersoft.SDK\src\Undersoft.SDK.PresentR\wwwroot\lang\th.json" target="staticwebassets\lang\th.json" />
+    <file src="X:\DEVELOPMENT\PROJECTS\NET\Undersoft\Universer\Undersoft.SDK\src\Undersoft.SDK.PresentR\wwwroot\lang\tr.js" target="staticwebassets\lang\tr.js" />
+    <file src="X:\DEVELOPMENT\PROJECTS\NET\Undersoft\Universer\Undersoft.SDK\src\Undersoft.SDK.PresentR\wwwroot\lang\tr.json" target="staticwebassets\lang\tr.json" />
+    <file src="X:\DEVELOPMENT\PROJECTS\NET\Undersoft\Universer\Undersoft.SDK\src\Undersoft.SDK.PresentR\wwwroot\lang\uk.js" target="staticwebassets\lang\uk.js" />
+    <file src="X:\DEVELOPMENT\PROJECTS\NET\Undersoft\Universer\Undersoft.SDK\src\Undersoft.SDK.PresentR\wwwroot\lang\uk.json" target="staticwebassets\lang\uk.json" />
+    <file src="X:\DEVELOPMENT\PROJECTS\NET\Undersoft\Universer\Undersoft.SDK\src\Undersoft.SDK.PresentR\wwwroot\lang\vi.js" target="staticwebassets\lang\vi.js" />
+    <file src="X:\DEVELOPMENT\PROJECTS\NET\Undersoft\Universer\Undersoft.SDK\src\Undersoft.SDK.PresentR\wwwroot\lang\vi.json" target="staticwebassets\lang\vi.json" />
+    <file src="X:\DEVELOPMENT\PROJECTS\NET\Undersoft\Universer\Undersoft.SDK\src\Undersoft.SDK.PresentR\wwwroot\lang\zh-CN.js" target="staticwebassets\lang\zh-CN.js" />
+    <file src="X:\DEVELOPMENT\PROJECTS\NET\Undersoft\Universer\Undersoft.SDK\src\Undersoft.SDK.PresentR\wwwroot\lang\zh-CN.json" target="staticwebassets\lang\zh-CN.json" />
+    <file src="X:\DEVELOPMENT\PROJECTS\NET\Undersoft\Universer\Undersoft.SDK\src\Undersoft.SDK.PresentR\wwwroot\lang\zh-Hans.js" target="staticwebassets\lang\zh-Hans.js" />
+    <file src="X:\DEVELOPMENT\PROJECTS\NET\Undersoft\Universer\Undersoft.SDK\src\Undersoft.SDK.PresentR\wwwroot\lang\zh-Hans.json" target="staticwebassets\lang\zh-Hans.json" />
+    <file src="X:\DEVELOPMENT\PROJECTS\NET\Undersoft\Universer\Undersoft.SDK\src\Undersoft.SDK.PresentR\wwwroot\lang\zh-Hant.js" target="staticwebassets\lang\zh-Hant.js" />
+    <file src="X:\DEVELOPMENT\PROJECTS\NET\Undersoft\Universer\Undersoft.SDK\src\Undersoft.SDK.PresentR\wwwroot\lang\zh-Hant.json" target="staticwebassets\lang\zh-Hant.json" />
+    <file src="X:\DEVELOPMENT\PROJECTS\NET\Undersoft\Universer\Undersoft.SDK\src\Undersoft.SDK.PresentR\wwwroot\lang\zh-TW.js" target="staticwebassets\lang\zh-TW.js" />
+    <file src="X:\DEVELOPMENT\PROJECTS\NET\Undersoft\Universer\Undersoft.SDK\src\Undersoft.SDK.PresentR\wwwroot\lang\zh-TW.json" target="staticwebassets\lang\zh-TW.json" />
+    <file src="X:\DEVELOPMENT\PROJECTS\NET\Undersoft\Universer\Undersoft.SDK\src\Undersoft.SDK.PresentR\wwwroot\lib\animate\animate.min.css" target="staticwebassets\lib\animate\animate.min.css" />
+    <file src="X:\DEVELOPMENT\PROJECTS\NET\Undersoft\Universer\Undersoft.SDK\src\Undersoft.SDK.PresentR\wwwroot\lib\countUp\countUp.min.js" target="staticwebassets\lib\countUp\countUp.min.js" />
+    <file src="X:\DEVELOPMENT\PROJECTS\NET\Undersoft\Universer\Undersoft.SDK\src\Undersoft.SDK.PresentR\wwwroot\lib\extensions\browser.js" target="staticwebassets\lib\extensions\browser.js" />
+    <file src="X:\DEVELOPMENT\PROJECTS\NET\Undersoft\Universer\Undersoft.SDK\src\Undersoft.SDK.PresentR\wwwroot\lib\extensions\longbow.captcha.js" target="staticwebassets\lib\extensions\longbow.captcha.js" />
+    <file src="X:\DEVELOPMENT\PROJECTS\NET\Undersoft\Universer\Undersoft.SDK\src\Undersoft.SDK.PresentR\wwwroot\lib\extensions\longbow.extensions.js" target="staticwebassets\lib\extensions\longbow.extensions.js" />
+    <file src="X:\DEVELOPMENT\PROJECTS\NET\Undersoft\Universer\Undersoft.SDK\src\Undersoft.SDK.PresentR\wwwroot\lib\extensions\longbow.grid.js" target="staticwebassets\lib\extensions\longbow.grid.js" />
+    <file src="X:\DEVELOPMENT\PROJECTS\NET\Undersoft\Universer\Undersoft.SDK\src\Undersoft.SDK.PresentR\wwwroot\lib\extensions\longbow.tab.js" target="staticwebassets\lib\extensions\longbow.tab.js" />
+    <file src="X:\DEVELOPMENT\PROJECTS\NET\Undersoft\Universer\Undersoft.SDK\src\Undersoft.SDK.PresentR\wwwroot\lib\swal\sweetalert2.css" target="staticwebassets\lib\swal\sweetalert2.css" />
+    <file src="X:\DEVELOPMENT\PROJECTS\NET\Undersoft\Universer\Undersoft.SDK\src\Undersoft.SDK.PresentR\wwwroot\lib\swal\sweetalert2.min.css" target="staticwebassets\lib\swal\sweetalert2.min.css" />
+    <file src="X:\DEVELOPMENT\PROJECTS\NET\Undersoft\Universer\Undersoft.SDK\src\Undersoft.SDK.PresentR\wwwroot\modules\ajax.js" target="staticwebassets\modules\ajax.js" />
+    <file src="X:\DEVELOPMENT\PROJECTS\NET\Undersoft\Universer\Undersoft.SDK\src\Undersoft.SDK.PresentR\wwwroot\modules\autoredirect.js" target="staticwebassets\modules\autoredirect.js" />
+    <file src="X:\DEVELOPMENT\PROJECTS\NET\Undersoft\Universer\Undersoft.SDK\src\Undersoft.SDK.PresentR\wwwroot\modules\base\base-component.js" target="staticwebassets\modules\base\base-component.js" />
+    <file src="X:\DEVELOPMENT\PROJECTS\NET\Undersoft\Universer\Undersoft.SDK\src\Undersoft.SDK.PresentR\wwwroot\modules\base\base-dropdown.js" target="staticwebassets\modules\base\base-dropdown.js" />
+    <file src="X:\DEVELOPMENT\PROJECTS\NET\Undersoft\Universer\Undersoft.SDK\src\Undersoft.SDK.PresentR\wwwroot\modules\base\blazor-component.js" target="staticwebassets\modules\base\blazor-component.js" />
+    <file src="X:\DEVELOPMENT\PROJECTS\NET\Undersoft\Universer\Undersoft.SDK\src\Undersoft.SDK.PresentR\wwwroot\modules\base\config.js" target="staticwebassets\modules\base\config.js" />
+    <file src="X:\DEVELOPMENT\PROJECTS\NET\Undersoft\Universer\Undersoft.SDK\src\Undersoft.SDK.PresentR\wwwroot\modules\base\data.js" target="staticwebassets\modules\base\data.js" />
+    <file src="X:\DEVELOPMENT\PROJECTS\NET\Undersoft\Universer\Undersoft.SDK\src\Undersoft.SDK.PresentR\wwwroot\modules\base\event-handler.js" target="staticwebassets\modules\base\event-handler.js" />
+    <file src="X:\DEVELOPMENT\PROJECTS\NET\Undersoft\Universer\Undersoft.SDK\src\Undersoft.SDK.PresentR\wwwroot\modules\base\index.js" target="staticwebassets\modules\base\index.js" />
+    <file src="X:\DEVELOPMENT\PROJECTS\NET\Undersoft\Universer\Undersoft.SDK\src\Undersoft.SDK.PresentR\wwwroot\modules\base\manipulator.js" target="staticwebassets\modules\base\manipulator.js" />
+    <file src="X:\DEVELOPMENT\PROJECTS\NET\Undersoft\Universer\Undersoft.SDK\src\Undersoft.SDK.PresentR\wwwroot\modules\base\simple-component.js" target="staticwebassets\modules\base\simple-component.js" />
+    <file src="X:\DEVELOPMENT\PROJECTS\NET\Undersoft\Universer\Undersoft.SDK\src\Undersoft.SDK.PresentR\wwwroot\modules\base\utility.js" target="staticwebassets\modules\base\utility.js" />
+    <file src="X:\DEVELOPMENT\PROJECTS\NET\Undersoft\Universer\Undersoft.SDK\src\Undersoft.SDK.PresentR\wwwroot\modules\button.js" target="staticwebassets\modules\button.js" />
+    <file src="X:\DEVELOPMENT\PROJECTS\NET\Undersoft\Universer\Undersoft.SDK\src\Undersoft.SDK.PresentR\wwwroot\modules\confirm.js" target="staticwebassets\modules\confirm.js" />
+    <file src="X:\DEVELOPMENT\PROJECTS\NET\Undersoft\Universer\Undersoft.SDK\src\Undersoft.SDK.PresentR\wwwroot\modules\data.js" target="staticwebassets\modules\data.js" />
+    <file src="X:\DEVELOPMENT\PROJECTS\NET\Undersoft\Universer\Undersoft.SDK\src\Undersoft.SDK.PresentR\wwwroot\modules\download.js" target="staticwebassets\modules\download.js" />
+    <file src="X:\DEVELOPMENT\PROJECTS\NET\Undersoft\Universer\Undersoft.SDK\src\Undersoft.SDK.PresentR\wwwroot\modules\dropdown.js" target="staticwebassets\modules\dropdown.js" />
+    <file src="X:\DEVELOPMENT\PROJECTS\NET\Undersoft\Universer\Undersoft.SDK\src\Undersoft.SDK.PresentR\wwwroot\modules\event-handler.js" target="staticwebassets\modules\event-handler.js" />
+    <file src="X:\DEVELOPMENT\PROJECTS\NET\Undersoft\Universer\Undersoft.SDK\src\Undersoft.SDK.PresentR\wwwroot\modules\fullscreen.js" target="staticwebassets\modules\fullscreen.js" />
+    <file src="X:\DEVELOPMENT\PROJECTS\NET\Undersoft\Universer\Undersoft.SDK\src\Undersoft.SDK.PresentR\wwwroot\modules\multi-select.js" target="staticwebassets\modules\multi-select.js" />
+    <file src="X:\DEVELOPMENT\PROJECTS\NET\Undersoft\Universer\Undersoft.SDK\src\Undersoft.SDK.PresentR\wwwroot\modules\popover.js" target="staticwebassets\modules\popover.js" />
+    <file src="X:\DEVELOPMENT\PROJECTS\NET\Undersoft\Universer\Undersoft.SDK\src\Undersoft.SDK.PresentR\wwwroot\modules\responsive.js" target="staticwebassets\modules\responsive.js" />
+    <file src="X:\DEVELOPMENT\PROJECTS\NET\Undersoft\Universer\Undersoft.SDK\src\Undersoft.SDK.PresentR\wwwroot\modules\select-tree.js" target="staticwebassets\modules\select-tree.js" />
+    <file src="X:\DEVELOPMENT\PROJECTS\NET\Undersoft\Universer\Undersoft.SDK\src\Undersoft.SDK.PresentR\wwwroot\modules\select.js" target="staticwebassets\modules\select.js" />
+    <file src="X:\DEVELOPMENT\PROJECTS\NET\Undersoft\Universer\Undersoft.SDK\src\Undersoft.SDK.PresentR\wwwroot\modules\table-filter.js" target="staticwebassets\modules\table-filter.js" />
+    <file src="X:\DEVELOPMENT\PROJECTS\NET\Undersoft\Universer\Undersoft.SDK\src\Undersoft.SDK.PresentR\wwwroot\modules\table.js" target="staticwebassets\modules\table.js" />
+    <file src="X:\DEVELOPMENT\PROJECTS\NET\Undersoft\Universer\Undersoft.SDK\src\Undersoft.SDK.PresentR\wwwroot\modules\textarea.js" target="staticwebassets\modules\textarea.js" />
+    <file src="X:\DEVELOPMENT\PROJECTS\NET\Undersoft\Universer\Undersoft.SDK\src\Undersoft.SDK.PresentR\wwwroot\modules\tooltip.js" target="staticwebassets\modules\tooltip.js" />
+    <file src="X:\DEVELOPMENT\PROJECTS\NET\Undersoft\Universer\Undersoft.SDK\src\Undersoft.SDK.PresentR\wwwroot\modules\upload.js" target="staticwebassets\modules\upload.js" />
+    <file src="X:\DEVELOPMENT\PROJECTS\NET\Undersoft\Universer\Undersoft.SDK\src\Undersoft.SDK.PresentR\wwwroot\modules\utility.js" target="staticwebassets\modules\utility.js" />
+    <file src="X:\DEVELOPMENT\PROJECTS\NET\Undersoft\Universer\Undersoft.SDK\src\Undersoft.SDK.PresentR\wwwroot\modules\validate.js" target="staticwebassets\modules\validate.js" />
+    <file src="X:\DEVELOPMENT\PROJECTS\NET\Undersoft\Universer\Undersoft.SDK\src\Undersoft.SDK.PresentR\wwwroot\qrcode.min.js" target="staticwebassets\qrcode.min.js" />
+    <file src="X:\DEVELOPMENT\PROJECTS\NET\Undersoft\Universer\Undersoft.SDK\src\Undersoft.SDK.PresentR\wwwroot\src\css\bootstrap.blazor.css" target="staticwebassets\src\css\bootstrap.blazor.css" />
+    <file src="X:\DEVELOPMENT\PROJECTS\NET\Undersoft\Universer\Undersoft.SDK\src\Undersoft.SDK.PresentR\wwwroot\src\css\motronic.css" target="staticwebassets\src\css\motronic.css" />
+    <file src="X:\DEVELOPMENT\PROJECTS\NET\Undersoft\Universer\Undersoft.SDK\src\Undersoft.SDK.PresentR\wwwroot\topology.js" target="staticwebassets\topology.js" />
+    <file src="X:\DEVELOPMENT\PROJECTS\NET\Undersoft\Universer\Undersoft.SDK\src\Undersoft.SDK.PresentR\wwwroot\video-js.min.css" target="staticwebassets\video-js.min.css" />
+    <file src="X:\DEVELOPMENT\PROJECTS\NET\Undersoft\Universer\Undersoft.SDK\src\Undersoft.SDK.PresentR\wwwroot\video.min.js" target="staticwebassets\video.min.js" />
+    <file src="X:\DEVELOPMENT\PROJECTS\NET\Undersoft\Universer\Undersoft.SDK\src\Undersoft.SDK.PresentR\wwwroot\webfonts\fa-brands-400.ttf" target="staticwebassets\webfonts\fa-brands-400.ttf" />
+    <file src="X:\DEVELOPMENT\PROJECTS\NET\Undersoft\Universer\Undersoft.SDK\src\Undersoft.SDK.PresentR\wwwroot\webfonts\fa-brands-400.woff2" target="staticwebassets\webfonts\fa-brands-400.woff2" />
+    <file src="X:\DEVELOPMENT\PROJECTS\NET\Undersoft\Universer\Undersoft.SDK\src\Undersoft.SDK.PresentR\wwwroot\webfonts\fa-regular-400.ttf" target="staticwebassets\webfonts\fa-regular-400.ttf" />
+    <file src="X:\DEVELOPMENT\PROJECTS\NET\Undersoft\Universer\Undersoft.SDK\src\Undersoft.SDK.PresentR\wwwroot\webfonts\fa-regular-400.woff2" target="staticwebassets\webfonts\fa-regular-400.woff2" />
+    <file src="X:\DEVELOPMENT\PROJECTS\NET\Undersoft\Universer\Undersoft.SDK\src\Undersoft.SDK.PresentR\wwwroot\webfonts\fa-solid-900.ttf" target="staticwebassets\webfonts\fa-solid-900.ttf" />
+    <file src="X:\DEVELOPMENT\PROJECTS\NET\Undersoft\Universer\Undersoft.SDK\src\Undersoft.SDK.PresentR\wwwroot\webfonts\fa-solid-900.woff2" target="staticwebassets\webfonts\fa-solid-900.woff2" />
+    <file src="X:\DEVELOPMENT\PROJECTS\NET\Undersoft\Universer\Undersoft.SDK\src\Undersoft.SDK.PresentR\wwwroot\webfonts\fa-v4compatibility.ttf" target="staticwebassets\webfonts\fa-v4compatibility.ttf" />
+    <file src="X:\DEVELOPMENT\PROJECTS\NET\Undersoft\Universer\Undersoft.SDK\src\Undersoft.SDK.PresentR\wwwroot\webfonts\fa-v4compatibility.woff2" target="staticwebassets\webfonts\fa-v4compatibility.woff2" />
+    <file src="X:\DEVELOPMENT\PROJECTS\NET\Undersoft\Universer\Undersoft.SDK\src\Undersoft.SDK.PresentR\wwwroot\zxing.min.js" target="staticwebassets\zxing.min.js" />
+    <file src="X:\DEVELOPMENT\PROJECTS\NET\Undersoft\Universer\Undersoft.SDK\src\Undersoft.SDK.PresentR\obj\Debug\net6.0\staticwebassets\msbuild.Undersoft.SDK.PresentR.Microsoft.AspNetCore.StaticWebAssets.props" target="build\Microsoft.AspNetCore.StaticWebAssets.props" />
+    <file src="X:\DEVELOPMENT\PROJECTS\NET\Undersoft\Universer\Undersoft.SDK\src\Undersoft.SDK.PresentR\obj\Debug\net6.0\staticwebassets\msbuild.build.Undersoft.SDK.PresentR.props" target="build\Undersoft.SDK.PresentR.props" />
+    <file src="X:\DEVELOPMENT\PROJECTS\NET\Undersoft\Universer\Undersoft.SDK\src\Undersoft.SDK.PresentR\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Undersoft.SDK.PresentR.props" target="buildMultiTargeting\Undersoft.SDK.PresentR.props" />
+    <file src="X:\DEVELOPMENT\PROJECTS\NET\Undersoft\Universer\Undersoft.SDK\src\Undersoft.SDK.PresentR\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Undersoft.SDK.PresentR.props" target="buildTransitive\Undersoft.SDK.PresentR.props" />
+  </files>
+</package>
